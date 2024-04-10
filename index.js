@@ -1,11 +1,12 @@
 const RestApi = require('./utils/request');
 const express = require('express');
 const boundings = require('./utils/boundings');
+const tipoVenta = require('./utils/filter');
 const getRandomDate = require('./utils/date_radom');
 const fs = require('fs');
 
 const app = express();
-app.use(express.json());
+app.use(express.urlencoded({ extended: true }));
 
 const router = express.Router();
 
@@ -20,22 +21,15 @@ router.get('/', (req, res) => {
 });
 
 router.post('/', async (req, res) => {
-  const filters = req.body;
+  const body = req.body;
 
   const filterZillow = {
     searchQueryState: {
       pagination: {
         currentPage: 1
       },
-      mapBounds: boundings.WA,
-      filterState: {
-        sortSelection: {
-          value: 'globalrelevanceex'
-        },
-        isAllHomes: {
-          value: true
-        }
-      },
+      mapBounds: boundings[body.estado],
+      filterState: tipoVenta[body.operacion](body.minPrice, body.maxPrice),
       isListVisible: true
     },
     wants: {
@@ -47,9 +41,8 @@ router.post('/', async (req, res) => {
   }
 
   try {
-
     const dacker = ['Direccion', 'Precio', 'Tipo_Adquicision', 'Habitaciones', 'Banios', 'Ciudad', 'Fecha']
-    fs.writeFileSync('./public/text.csv', dacker.join(';'));
+    fs.writeFileSync('./public/nose.csv', dacker.join(';'));
 
     const rest = new RestApi('https://www.zillow.com');
 
@@ -60,7 +53,7 @@ router.post('/', async (req, res) => {
       const results = response.cat1.searchResults.listResults;
           
       for(const result of results) {
-        saveData(result, 'text.csv');
+        saveData(result, 'nose.csv');
       }
     }
 

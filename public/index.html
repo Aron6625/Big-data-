@@ -17,32 +17,37 @@
       </div>
       <div class="row clearfix">
         <div class="">
-          <form>
+          <form action="/recopilador" method="POST">
             <div class="input_field select_option">
-              <select>
+              <select name="estado">
                 <option selected disabled>Estados</option>
-                <option>New York</option>
-                <option>Washinton</option>
-                <option>Todos</option>
+                <option value="NY">New York</option>
+                <option value="WA">Washinton</option>
+                <option value="TX">Texas</option>
+                <option value="FL">Florida</option>
+                <option value="NY,WA,">Todos</option>  
               </select>
               <div class="select_arrow"></div>
             </div>
-            <div class="input_field"> <span><i aria-hidden="true" class="fa fa-lock"></i></span>
-              <input type="text" name="text" placeholder="Tipo Hogar" required />
+            <div class="input_field select_option">
+              <select name="operacion">
+                <option selected disabled>Tipos de venta</option>
+                <option value="venta">En venta</option>
+                <option value="alquiler">En alquiler</option>
+              </select>
+              <div class="Operacion_arrow"></div>
             </div>
-            <div class="input_field"> <span><i aria-hidden="true" class="fa fa-lock"></i></span>
-              <input type="text" name="text" placeholder="Operacion" required />
-            </div>
-
             <div class="row clearfix">
               <div class="col_half">
-                <div class="input_field"> <span><i aria-hidden="true" class="fa fa-user"></i></span>
-                  <input min="0" type="number" name="name" placeholder="Minimo" />
+                <div class="input_field">
+                  <span><i aria-hidden="true" class="fa fa-user"></i></span>
+                  <input type="number" name="minPrice" placeholder="Precio Mínimo" min="0" max="200" required />
                 </div>
               </div>
               <div class="col_half">
-                <div class="input_field"> <span><i aria-hidden="true" class="fa fa-user"></i></span>
-                  <input min="0" type="number" name="name" placeholder="Maximo" required />
+                <div class="input_field">
+                  <span><i aria-hidden="true" class="fa fa-user"></i></span>
+                  <input type="number" name="maxPrice" placeholder="Precio Máximo" min="0"  required />
                 </div>
               </div>
             </div>
