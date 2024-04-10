@@ -1,0 +1,822 @@
+sep=;
+Direccion;Precio;Tipo_Adquicision;Habitaciones;Banios;Ciudad;Fecha
+133 119th Street S, Tacoma, WA 98444;424950;ForSale;3;2;Tacoma;2023-10-27T10:33:47.248Z
+1012 S Carousel Ln, Spokane, WA 99224;625000;ForSale;5;3;Spokane;2023-10-31T00:44:09.726Z
+7810 N Dakota St, Spokane, WA 99208;369900;ForSale;4;2;Spokane;2024-02-05T01:00:08.457Z
+6247 Pearson Dr, Nine Mile Falls, WA 99026;679000;ForSale;5;3;Nine Mile Falls;2024-03-23T12:54:31.378Z
+9020 13th Avenue SW, Seattle, WA 98106;550000;ForSale;2;1;Seattle;2024-03-15T01:58:11.517Z
+8055 Tieton Place NW, Silverdale, WA 98383;815000;ForSale;4;3;Silverdale;2023-11-18T08:20:10.114Z
+1767 NW 58th Street UNIT 5, Seattle, WA 98107;598000;ForSale;2;1;Seattle;2024-03-21T07:11:38.633Z
+0 254th Avenue, Issaquah, WA 98027;99000;ForSale;;;Issaquah;2024-03-13T21:30:09.235Z
+21214 96th Avenue W, Edmonds, WA 98020;915000;ForSale;3;2;Edmonds;2024-01-21T12:05:15.246Z
+120 1st Avenue W UNIT 405, Seattle, WA 98119;419900;ForSale;1;1;Seattle;2023-12-28T00:18:04.218Z
+1528 N Harmon Street, Tacoma, WA 98406;529000;ForSale;4;1;Tacoma;2024-02-09T05:04:04.140Z
+431 NE Adams Avenue, Chehalis, WA 98532;399900;ForSale;3;2;Chehalis;2024-04-03T20:44:07.732Z
+2830 Antoine Creek (Lot B) Road, Chelan, WA 98816;135000;ForSale;;;Chelan;2024-04-01T00:22:44.349Z
+21605 (LOT 7) 13th Drive S, Des Moines, WA 98198;687450;ForSale;4;5;Des Moines;2023-11-21T05:51:41.262Z
+5016 E Commerce Ave, Spokane, WA 99212;280000;ForSale;3;1;Spokane;2024-01-02T20:08:09.764Z
+9105 N Elm Ln, Spokane, WA 99208;425000;ForSale;3;2;Spokane;2023-11-20T12:30:49.430Z
+5008 N Elm St, Spokane, WA 99205;340000;ForSale;3;1;Spokane;2023-11-24T21:09:47.407Z
+4220 S 185th Street, SeaTac, WA 98188;695000;ForSale;3;2;Seattle;2024-03-17T02:29:21.816Z
+100 W Florentia Street UNIT A, Seattle, WA 98119;749950;ForSale;2;2;Seattle;2024-03-23T22:08:13.250Z
+11104 C Street, Tacoma, WA 98444;342000;ForSale;2;1;Tacoma;2024-03-01T14:22:09.833Z
+8716 Silver Fox Court SW, Olympia, WA 98512;530000;ForSale;3;3;Olympia;2023-11-16T11:26:55.289Z
+9624 19TH Avenue SE UNIT C, Everett, WA 98208;649995;ForSale;3;3;Everett;2023-11-20T17:44:30.479Z
+204 E 1st Ave APT 18, Post Falls, ID 83854;550000;ForSale;2;2;Post Falls;2023-12-03T10:53:48.052Z
+17310 NE 45th Street UNIT 123, Redmond, WA 98052;475000;ForSale;2;2;Redmond;2024-01-29T04:38:12.771Z
+130 Eliza Island, Bellingham, WA 98226;550000;ForSale;3;1;Bellingham;2024-02-06T06:41:55.077Z
+128 Dungeness Drive, Camano Island, WA 98282;729000;ForSale;2;1;Camano Island;2024-04-08T21:23:33.972Z
+1329 SW Pendleton Way UNIT 163, Port Orchard, WA 98367;559995;ForSale;4;3;Port Orchard;2023-11-27T09:46:15.976Z
+230 SW Clark Street UNIT C303, Issaquah, WA 98027;348000;ForSale;1;1;Issaquah;2024-01-06T09:05:38.254Z
+0 NHN Loop Avenue, Manson, WA 98831;175000;ForSale;;;Manson;2024-01-10T21:12:53.728Z
+4352 Telegraph Rd, Cowichan Valley, BC V0R 1N2;599900;ForSale;2;1;Cowichan Valley;2024-02-01T05:57:05.508Z
+21603 (LOT 6) 13th Drive S, Des Moines, WA 98198;659950;ForSale;4;4;Des Moines;2023-11-22T03:34:10.755Z
+203 E 26th Ave, Kennewick, WA 99337;389900;ForSale;3;2;Kennewick;2023-11-19T05:07:26.615Z
+811 Odell Road, Blaine, WA 98230;629900;ForSale;2;1;Blaine;2024-03-08T01:01:55.506Z
+411 Brierwood Court SE, Castle Rock, WA 98611;329000;ForSale;3;1;Castle Rock;2024-03-05T21:44:44.917Z
+0 Evans Ranch Road, Riverside, WA 98849;60000;ForSale;;;Riverside;2024-02-25T09:46:44.133Z
+941 Echo Valley Pl, Langford, BC V9B 0Y2;798000;ForSale;3;3;Langford;2023-12-15T20:01:13.886Z
+757 Tyee Rd #601, Victoria, BC V9A 0G5;799000;ForSale;2;2;Victoria;2024-03-17T13:10:01.968Z
+6655 Axis Street SE, Lacey, WA 98513;499900;ForSale;4;3;Lacey;2023-11-22T06:44:18.482Z
+63602 NE 197th Place, Baring, WA 98224;400000;ForSale;3;1;Baring;2023-11-06T19:44:39.014Z
+231 6 Big River Boulevard W, Deming, WA 98244;32500;ForSale;1;1;Deming;2024-01-03T00:05:13.187Z
+2830 Antoine Creek Rd (Lot D), Chelan, WA 98816;99000;ForSale;;;Chelan;2024-01-30T19:30:12.168Z
+2830 Antoine Creek Rd (Lot D), Chelan, WA 98816;99000;ForSale;;;Chelan;2024-03-23T01:10:27.916Z
+400 N 75th Ave, Yakima, WA 98908;335000;ForSale;3;3;Yakima;2023-12-18T14:14:58.353Z
+1531 Frontier Dr, Lewiston, ID 83501;599900;ForSale;3;2;Lewiston;2023-12-02T13:02:21.624Z
+10430 90th Avenue SW, Lakewood, WA 98498;610000;ForSale;4;3;Lakewood;2023-11-18T06:02:53.517Z
+952 1st Avenue S, Okanogan, WA 98840;329900;ForSale;3;2;Okanogan;2024-03-22T17:32:58.157Z
+13229 12th Avenue SW UNIT 222, Burien, WA 98146;359500;ForSale;2;2;Seattle;2023-10-25T05:15:36.750Z
+Cushman Plan, Lacamas Hills - Powell Collection;941995;ForSale;3;3;Camas;2023-12-03T22:49:04.666Z
+525 S Quillan Ct, Kennewick, WA 99336;360000;ForSale;3;3;Kennewick;2023-11-26T00:30:41.960Z
+618 98th Drive NE, Lake Stevens, WA 98258;765000;ForSale;3;3;Lake Stevens;2024-03-11T23:53:25.999Z
+14915 38th Drive SE UNIT J1116, Bothell, WA 98012;549950;ForSale;2;3;Bothell;2024-02-17T16:44:21.293Z
+Andover Plan, Northside;714990;ForSale;3;3;Washougal;2023-11-07T23:42:12.906Z
+5808 W Holyoke Ave, Spokane, WA 99208;365000;ForSale;4;2;Spokane;2024-04-10T15:22:58.241Z
+1626 W Toni Rae Dr, Spokane, WA 99218;167500;ForSale;;;Spokane;2024-03-07T15:41:52.726Z
+641 S 45th Ave, West Richland, WA 99353;320000;ForSale;3;2;West Richland;2024-02-14T12:23:10.907Z
+12719 SE 254th Place, Kent, WA 98030;665000;ForSale;3;3;Kent;2024-02-22T20:11:41.961Z
+621 Broadway St, Victoria, BC V8Z 2G5;899900;ForSale;3;1;Victoria;2023-12-13T22:21:25.835Z
+730 Freedom Court SE, Port Orchard, WA 98366;505000;ForSale;4;3;Pt Orchard;2024-04-01T17:01:26.689Z
+675 Superior St #10, Victoria, BC V8V 1V1;999999;ForSale;3;3;Victoria;2024-02-22T07:20:53.629Z
+3328 S Dearborn Ln, Spokane, WA 99223;619990;ForSale;5;3;Spokane;2023-10-15T19:23:52.590Z
+2207 W Edgewood Drive, Port Angeles, WA 98363;395000;ForSale;4;2;Port Angeles;2024-01-15T02:16:22.016Z
+7323 NE Pebble Beach Drive, Suquamish, WA 98392;980000;ForSale;2;2;Suquamish;2023-10-13T19:07:26.035Z
+11622 Silver Lake Road UNIT 22, Everett, WA 98208;98000;ForSale;2;1;Everett;2024-01-26T14:19:50.930Z
+7552 Dibble Avenue NW, Seattle, WA 98117;799000;ForSale;3;1;Seattle;2024-03-13T06:19:34.243Z
+2028 S 233rd Street, Des Moines, WA 98198;745000;ForSale;4;4;Des Moines;2023-11-08T14:28:45.747Z
+145 Greenview Dr, Richland, WA 99352;409900;ForSale;4;2;Richland;2024-02-27T12:28:05.832Z
+4605 56th Street NW UNIT 2A, Gig Harbor, WA 98335;355000;ForSale;2;1;Gig Harbor;2024-03-17T02:10:58.351Z
+1018 SE Creekside Drive, College Place, WA 99324;669000;ForSale;4;3;College Place;2023-12-04T10:17:16.344Z
+Nka W Sunmeadow Rd, Worley, ID 83876;299500;ForSale;;0;Worley;2024-04-03T00:43:20.015Z
+1500 S 18th Street UNIT E101, Renton, WA 98055;420000;ForSale;2;2;Renton;2023-11-10T21:03:37.459Z
+17032 Larch Way, Lynnwood, WA 98037;749990;ForSale;3;2;Lynnwood;2023-11-10T17:08:41.611Z
+6502 James St, West Richland, WA 99353;109000;ForSale;2;2;West Richland;2023-10-16T16:04:05.785Z
+10228 Totem Way, Anderson Island, WA 98303;28500;ForSale;;;Anderson Island;2024-03-01T06:03:13.204Z
+1777 Elford Rd, Shawnigan Lake, BC V0R 2W2;799900;ForSale;3;2;Shawnigan Lake;2024-01-22T01:17:23.495Z
+1631 16th Avenue UNIT #116, Seattle, WA 98122;355000;ForSale;1;1;Seattle;2024-01-05T00:36:30.035Z
+21904 V Lane, Ocean Park, WA 98640;799000;ForSale;3;3;Ocean Park;2023-11-06T11:50:55.363Z
+55 W Washington Ave UNIT 131, Yakima, WA 98903;50000;ForSale;2;2;Yakima;2024-02-27T14:24:47.978Z
+1721 Hoyt Avenue, Everett, WA 98201;810000;ForSale;3;2;Everett;2023-12-19T10:14:52.765Z
+8828 Meridian Place NE UNIT 101, Lake Stevens, WA 98258;450000;ForSale;3;2;Lake Stevens;2024-02-20T11:21:56.755Z
+1617 S Rocky Ridge Dr, Spokane, WA 99212;825000;ForSale;5;3;Spokane;2023-12-08T04:48:25.275Z
+2627 W Westover Rd, Spokane, WA 99208;759900;ForSale;6;4;Spokane;2024-03-17T00:55:51.924Z
+2096 Kennedy St N #125, Sooke, BC V9Z 0Z1;645000;ForSale;3;3;Sooke;2023-11-17T03:09:22.072Z
+99303 162nd PR SE, Kennewick, WA 99338;325000;ForSale;;;Kennewick;2023-12-02T21:21:51.991Z
+2421 SW Trenton UNIT 202, Seattle, WA 98106;399000;ForSale;2;2;Seattle;2023-12-28T10:29:46.297Z
+6120 E 10th Ave, Spokane, WA 99212;415000;ForSale;3;2;Spokane;2023-11-10T09:31:51.073Z
+1834 Pioneer Street, Enumclaw, WA 98022;699990;ForSale;3;3;Enumclaw;2024-03-28T10:57:46.961Z
+434 Third Street, Morton, WA 98356;439900;ForSale;4;2;Toledo;2024-01-10T10:35:33.753Z
+428 Third Street, Morton, WA 98356;439900;ForSale;4;2;Morton;2023-11-02T14:33:06.379Z
+131 6 Riverside Drive, Deming, WA 98244;45000;ForSale;1;1;Deming;2023-11-26T01:55:05.779Z
+1640 E Mason Lake Road, Shelton, WA 98584;445000;ForSale;;;Shelton;2023-10-15T20:38:06.932Z
+2514 Empire St, Victoria, BC V8T 3M4;974900;ForSale;2;1;Victoria;2024-01-13T00:12:41.450Z
+2319 Brethour Ave #302, Sidney, BC V8L 2A4;799500;ForSale;2;1;Sidney;2024-01-16T15:18:42.380Z
+6812 Bentley Circle NE, Bremerton, WA 98311;675000;ForSale;4;3;Bremerton;2023-12-15T05:02:25.818Z
+13 XX 16th Avenue S, Seattle, WA 98144;899000;ForSale;;;Seattle;2023-11-25T06:03:03.663Z
+3687 S Sherman St, Kennewick, WA 99338;569900;ForSale;4;3;Kennewick;2023-10-26T00:44:16.021Z
+740 Travino Ln #102, Victoria, BC V8Z 0E2;725000;ForSale;2;2;Victoria;2024-01-03T14:52:34.499Z
+720 G Street SW, Tumwater, WA 98512;529000;ForSale;4;3;Olympia;2024-03-05T10:50:07.400Z
+4093 Fairway Dr, Lewiston, ID 83501;649900;ForSale;4;3;Lewiston;2023-10-17T23:01:14.319Z
+813 E Percival Ave, Spokane, WA 99218;450000;ForSale;3;2;Spokane;2024-02-03T21:35:25.241Z
+521 E L St, Deer Park, WA 99006;409995;ForSale;3;2;Deer Park;2023-11-25T01:43:51.828Z
+803 McCormick Street SE, Olympia, WA 98501;468000;ForSale;2;2;Olympia;2023-11-13T07:51:01.722Z
+630 SW Zillah Street, Camas, WA 98607;479000;ForSale;3;3;Camas;2023-12-06T20:56:31.193Z
+82 Eliza Island, Bellingham, WA 98225;489000;ForSale;3;2;Bellingham;2023-12-22T10:29:47.160Z
+17308 33rd Avenue S, SeaTac, WA 98188;580000;ForSale;4;2;Seatac;2023-11-20T15:11:50.794Z
+1075 Tillicum Rd #108, Esquimalt, BC V9A 2A4;384900;ForSale;1;1;Esquimalt;2023-11-12T15:28:28.768Z
+3221 E Harding Ave, Mead, WA 99021;444995;ForSale;4;2;Mead;2024-01-18T23:56:29.296Z
+703 W Bertona Street, Seattle, WA 98119;895000;ForSale;3;1;Seattle;2024-01-05T13:17:09.669Z
+133 N 177th Street, Shoreline, WA 98133;935000;ForSale;4;3;Seattle;2024-03-06T02:29:04.078Z
+506 Alexander Court NW, Orting, WA 98360;525990;ForSale;3;2;Orting;2023-10-22T22:18:18.266Z
+1106 N Washington Avenue, Centralia, WA 98531;429900;ForSale;3;2;Centralia;2023-12-07T18:12:54.141Z
+6542 Kayak Place NW, Bremerton, WA 98311;529900;ForSale;3;4;Bremerton;2023-12-12T22:06:34.210Z
+3825 85th Avenue NE, Marysville, WA 98270;750000;ForSale;3;3;Marysville;2023-12-20T01:27:11.770Z
+13109 E 29th Ave, Spokane, WA 99216;560000;ForSale;4;3;Spokane;2023-12-11T06:22:28.561Z
+391 Tyee Rd #502, Victoria, BC V9A 0A9;934900;ForSale;2;2;Victoria;2023-11-21T13:20:51.904Z
+1530 Johnson Rd, Centralia, WA 98531;386000;ForSale;3;2;Centralia;2023-10-20T16:08:29.655Z
+8014 S Allora Rd, Cheney, WA 99004;539995;ForSale;4;3;Cheney;2023-10-16T12:50:44.113Z
+8108 S Avery Rd, Cheney, WA 99004;499995;ForSale;4;3;Cheney;2024-01-07T14:05:42.838Z
+800 96th Avenue NE UNIT i201, Lake Stevens, WA 98258;399000;ForSale;2;2;Lake Stevens;2023-11-13T06:47:22.582Z
+8711 Skokomish Way NE, Olympia, WA 98516;425000;ForSale;3;2;Olympia;2024-01-18T08:50:41.149Z
+4156 McLaughlin Road, Mount Vernon, WA 98273;794950;ForSale;3;2;Mount Vernon;2024-01-15T02:48:24.009Z
+3007 Cedar Hill Rd #2, Victoria, BC V8T 3J2;948000;ForSale;3;3;Victoria;2024-01-09T02:52:59.245Z
+Merlot Plan, Four Seasons;514950;ForSale;4;3;Pt Orchard;2024-03-02T13:42:27.904Z
+614 Fernhill Pl #306, Esquimalt, BC V9A 4Z1;489900;ForSale;2;1;Esquimalt;2024-02-29T02:13:39.404Z
+614 Fernhill Pl #306, Esquimalt, BC V9A 4Z1;489900;ForSale;2;1;Esquimalt;2023-11-24T00:40:20.296Z
+3237 Ridgeview Drive NE, Bremerton, WA 98310;524900;ForSale;3;3;Bremerton;2024-03-15T13:21:06.593Z
+3805 3807 NW Munson Street, Silverdale, WA 98383;585000;ForSale;4;4;Silverdale;2023-12-12T10:47:05.696Z
+516 E Alder Avenue, Ritzville, WA 99169;349999;ForSale;3;2;Ritzville;2023-11-02T01:30:26.967Z
+5504 220th Street SW UNIT C101, Mountlake Terrace, WA 98043;374995;ForSale;2;2;Mountlake Terrace;2023-10-23T17:38:13.340Z
+16923 SE 182nd Place, Renton, WA 98058;849950;ForSale;4;4;Renton;2024-03-03T21:01:32.974Z
+11301 108th Street Ct SW, Tacoma, WA 98498;529999;ForSale;3;3;Tacoma;2024-03-24T14:47:08.689Z
+1518 NE 75th Street, Seattle, WA 98115;779950;ForSale;2;2;Seattle;2024-03-31T14:16:48.246Z
+22014 29th Avenue S UNIT 14, Des Moines, WA 98198;75000;ForSale;3;2;Seattle;2023-12-04T19:41:34.743Z
+9921 SW 212th Street, Vashon, WA 98070;975000;ForSale;3;3;Vashon;2024-01-06T05:36:00.427Z
+3816 S 184th Street, SeaTac, WA 98188;530000;ForSale;3;1;Seatac;2024-04-03T03:27:52.449Z
+140 Clover Ln, Burbank, WA 99323;260000;ForSale;3;2;Burbank;2023-10-19T21:22:27.302Z
+1002 E 71st Street Ct, Tacoma, WA 98404;495000;ForSale;3;3;Tacoma;2024-03-07T19:59:08.403Z
+15605 E 20th Ave, Veradale, WA 99037;599995;ForSale;5;3;Veradale;2023-11-18T16:49:15.970Z
+0 S H St, Spokane, WA 99224;90000;ForSale;;;Spokane;2023-10-28T05:47:54.394Z
+11013 Hamma Hamma Court SE, Olympia, WA 98501;225000;ForSale;;;Olympia;2023-11-24T15:55:23.649Z
+121 Greenvale Drive, Ellensburg, WA 98926;849000;ForSale;4;4;Ellensburg;2023-10-14T15:19:17.471Z
+9111 Highland Avenue SW, Lakewood, WA 98498;949950;ForSale;6;4;Lakewood;2023-12-31T23:25:09.226Z
+2465 Gateway Rd #101, Langford, BC V9B 6R1;599900;ForSale;2;2;Langford;2024-01-31T22:49:13.108Z
+5303 W Tucannon Ave, Kennewick, WA 99336;420000;ForSale;5;3;Kennewick;2023-12-13T01:04:41.942Z
+3248 Sherman Rd #107, Duncan, BC V9L 4B4;509000;ForSale;2;3;Duncan;2024-01-08T15:02:21.094Z
+1009 McKenzie Ave #415, Victoria, BC V8X 4B1;530000;ForSale;2;1;Victoria;2024-03-28T08:09:36.226Z
+157 Green Water Drive, Toledo, WA 98591;750000;ForSale;3;2;Toledo;2024-02-07T13:29:42.923Z
+1921 1925 Sunset Drive W, University Place, WA 98466;895000;ForSale;5;2;Tacoma;2023-11-28T17:34:50.146Z
+17112 44th Avenue W UNIT B-202, Lynnwood, WA 98037;410000;ForSale;2;2;Lynnwood;2024-03-06T10:02:43.847Z
+303 E Washington St, Farmington, WA 99128;30000;ForSale;;;Farmington;2023-12-31T20:36:13.028Z
+302 E Washington St, Farmington, WA 99128;399900;ForSale;3;3;Farmington;2023-11-02T23:20:43.525Z
+134 5 W Big River Boulevard, Deming, WA 98244;47500;ForSale;1;1;Deming;2023-11-28T04:38:58.044Z
+6712 E Jamieson Rd, Spokane, WA 99223;500000;ForSale;;;Spokane;2024-01-20T13:19:28.353Z
+E Washington St, Farmington, WA 99128;30000;ForSale;;;Farmington;2024-02-06T04:27:47.967Z
+18810 Ave E 94th, Puyallup, WA 98375;510000;ForSale;3;3;Puyallup;2023-10-28T21:07:52.630Z
+4064 S G Street, Tacoma, WA 98418;550000;ForSale;3;2;Tacoma;2023-12-30T07:25:52.842Z
+6308 S Latah Hills Ct, Spokane, WA 99224;875000;ForSale;5;4;Spokane;2023-11-17T21:01:06.073Z
+116 11th Avenue E UNIT 502, Seattle, WA 98102;895000;ForSale;2;2;Seattle;2024-02-23T01:53:00.102Z
+700 E Denny Way UNIT 204, Seattle, WA 98122;329950;ForSale;1;1;Seattle;2024-03-08T09:48:20.950Z
+282 Laura Point Rd, Southern Gulf Islands, BC V0N 2J1;699000;ForSale;2;2;Southern Gulf Islands;2023-12-08T06:34:34.840Z
+3990 Abbey Ln, Astoria, OR 97103;349000;ForSale;1;1;Astoria;2023-11-27T00:42:27.429Z
+1405 E 63rd Street, Tacoma, WA 98404;375000;ForSale;3;1;Tacoma;2024-01-20T07:59:36.425Z
+11526 US HWY 12, Randle, WA 98377;499000;ForSale;;;Randle;2024-01-05T06:32:20.607Z
+36390 Hood Canal Drive NE, Hansville, WA 98340;859000;ForSale;4;2;Hansville;2023-12-01T17:25:10.735Z
+3223 Selleck Way #404, Victoria, BC V9C 0E7;569900;ForSale;1;1;Victoria;2024-03-10T06:08:29.937Z
+123 Holladay Dr, Cheney, WA 99004;355000;ForSale;3;2;Cheney;2024-04-07T10:15:58.933Z
+14317 106th Avenue NE, Kirkland, WA 98034;898000;ForSale;3;1;Kirkland;2023-10-28T12:06:21.235Z
+27 Mount Pleasant Rd, Pt Angeles, WA 98362;99000;ForSale;;;Pt Angeles;2024-01-23T07:01:59.920Z
+1522 Lincoln Street, Bellingham, WA 98229;485000;ForSale;2;1;Bellingham;2023-11-20T09:02:26.998Z
+20632 E Saltese Lake Rd, Greenacres, WA 99016;750000;ForSale;5;3;Greenacres;2024-03-01T19:46:21.142Z
+11475 Kallgren Road NE, Bainbridge Island, WA 98110;888000;ForSale;3;2;Bainbridge Island;2023-11-08T00:38:19.716Z
+1691 SW Mulberry Place UNIT F203, Oak Harbor, WA 98277;299000;ForSale;2;2;Oak Harbor;2024-01-04T10:25:04.268Z
+Pinebrook Dr, Chewelah, WA 99109;95900;ForSale;;0;Chewelah;2024-03-25T17:02:37.182Z
+15512 Country Club Drive UNIT B41, Mill Creek, WA 98012;550000;ForSale;2;2;Bothell;2024-03-29T13:52:45.039Z
+317 W Mansfield Ave, Spokane, WA 99205;405000;ForSale;4;2;Spokane;2024-03-24T17:51:33.590Z
+16536 N Columbus Dr, Colbert, WA 99005;739000;ForSale;5;3;Colbert;2024-04-03T11:43:58.641Z
+24836 E Ludlow Ave, Liberty Lake, WA 99019;759900;ForSale;4;3;Liberty Lake;2024-01-26T10:02:03.479Z
+15381 W Sunmeadow Rd, Worley, ID 83876;350000;ForSale;;0;Worley;2023-11-10T01:21:52.739Z
+1747 Mountain View Road E, Port Orchard, WA 98366;750000;ForSale;3;3;Pt Orchard;2023-12-26T01:16:47.031Z
+11419 186th Street E, Puyallup, WA 98374;489000;ForSale;3;3;Puyallup;2023-12-20T21:17:41.327Z
+4825 S Dishman Mica Rd, Spokane, WA 99206;950000;ForSale;5;3;Spokane;2023-10-21T06:43:51.063Z
+989 Johnson St #711, Victoria, BC V8V 0E3;549000;ForSale;1;1;Victoria;2024-01-19T16:37:48.520Z
+12131 Chumstick Highway, Leavenworth, WA 98826;499000;ForSale;1;1;Leavenworth;2024-03-21T12:44:49.731Z
+4026 B Midvale Avenue N, Seattle, WA 98103;905000;ForSale;3;3;Seattle;2023-11-13T22:03:12.443Z
+1420 W Mission Ave, Spokane, WA 99201;312500;ForSale;3;2;Spokane;2024-04-05T08:12:14.415Z
+8448 17th Avenue SW, Seattle, WA 98106;875000;ForSale;4;2;Seattle;2024-01-14T04:14:28.845Z
+1121 Game Farm Road, Ellensburg, WA 98926;519000;ForSale;3;2;Ellensburg;2023-11-20T11:31:40.900Z
+995 Alida Court SE, Ocean Shores, WA 98569;539000;ForSale;2;2;Ocean Shores;2023-11-27T19:01:51.102Z
+200802 E Game Farm Rd SPACE 17, Kennewick, WA 99337;150000;ForSale;4;2;Kennewick;2024-04-02T23:03:31.560Z
+9693 Long Point Lane NW, Silverdale, WA 98383;389900;ForSale;2;3;Silverdale;2023-11-12T22:20:22.690Z
+9108 Wildwood Avenue SW, Lakewood, WA 98498;525000;ForSale;3;3;Lakewood;2024-02-27T10:23:26.560Z
+1426 E Bobwhite Ln, Post Falls, ID 83854;525000;ForSale;3;2;Post Falls;2023-12-16T00:50:44.426Z
+1710 Fort St #302, Victoria, BC V8R 1J2;624888;ForSale;2;2;Victoria;2024-03-30T14:23:32.819Z
+40118 41st Avenue Ct E, Eatonville, WA 98328;675000;ForSale;3;2;Eatonville;2024-01-29T09:16:52.694Z
+10928 SE 251st Place UNIT C, Kent, WA 98030;399950;ForSale;3;3;Kent;2023-12-26T23:01:24.496Z
+Cashmere Plan, Badger Mountain South - West Village;486900;ForSale;3;2;Richland;2024-01-25T07:35:00.213Z
+4404 S 382nd Street, Auburn, WA 98001;574950;ForSale;2;2;Auburn;2024-02-28T10:38:39.226Z
+5301 NE 68th Street, Vancouver, WA 98661;524900;ForSale;3;2;Vancouver;2024-04-09T02:53:55.570Z
+19808 137th Avenue SE, Renton, WA 98058;700000;ForSale;3;2;Renton;2024-01-04T05:34:06.153Z
+4103 Artesia Dr, Pasco, WA 99301;439000;ForSale;3;2;Pasco;2024-01-06T14:20:41.800Z
+120 Bass Avenue NE, Ocean Shores, WA 98569;129000;ForSale;;;Ocean Shores;2023-10-17T16:14:43.033Z
+617 Aster Court SE, Ocean Shores, WA 98569;50000;ForSale;;;Ocean Shores;2024-03-08T02:15:09.350Z
+2465 Gateway Rd #309, Langford, BC V9B 6R1;474900;ForSale;1;1;Langford;2024-02-11T20:01:39.463Z
+1355 Bryant Avenue, Walla Walla, WA 99362;395000;ForSale;3;2;Walla Walla;2024-03-03T22:26:25.996Z
+6804 244th Street Ct E, Graham, WA 98338;725000;ForSale;3;3;Graham;2023-11-07T09:33:43.159Z
+31813 21st Avenue SW UNIT 30, Federal Way, WA 98023;85000;ForSale;2;1;Federal Way;2024-03-02T15:38:33.263Z
+6411 NW Firwood Drive, Vancouver, WA 98665;425000;ForSale;3;2;Vancouver;2023-12-04T02:26:32.997Z
+30009 155th Avenue SE, Kent, WA 98042;485000;ForSale;3;2;Kent;2024-03-24T20:15:07.414Z
+2806 233rd Lane, Ocean Park, WA 98640;95000;ForSale;;;Ocean Park;2024-02-14T07:26:32.775Z
+12409 67th Avenue Court E, Puyallup, WA 98373;525000;ForSale;3;2;Puyallup;2023-12-28T14:19:38.467Z
+Willamette Plan, Si Ellen Farms;867900;ForSale;3;2;Vancouver;2024-02-17T17:33:04.341Z
+17821 123rd Street E, Bonney Lake, WA 98391;675000;ForSale;4;3;Bonney Lake;2023-11-20T14:38:44.324Z
+8702 143 Avenue Ct E UNIT 29, Puyallup, WA 98372;75000;ForSale;2;1;Puyallup;2024-01-05T09:57:49.296Z
+4291 Cowlitz Blvd, Richland, WA 99352;132000;ForSale;;;Richland;2023-11-25T00:02:55.952Z
+658 San Juan Court NE, Ocean Shores, WA 98569;50000;ForSale;;;Ocean Shores;2023-11-13T05:52:56.366Z
+827 Hiawatha Place S UNIT 303, Seattle, WA 98144;460000;ForSale;2;1;Seattle;2024-01-19T02:06:03.896Z
+19 Wright Road, Winthrop, WA 98862;799950;ForSale;2;2;Winthrop;2024-03-08T12:25:38.857Z
+2167 Stonewater Ln S, Sooke, BC V9Z 1M4;599000;ForSale;0;0;Sooke;2023-12-19T00:19:11.970Z
+1660 S 333rd Street UNIT 200, Federal Way, WA 98003;100000;ForSale;2;2;Federal Way;2023-11-28T02:20:57.120Z
+32319 Union Drive, Black Diamond, WA 98010;535000;ForSale;3;2;Black Diamond;2024-01-09T11:20:48.826Z
+3847 30th Avenue W, Seattle, WA 98199;715000;ForSale;2;3;Seattle;2024-01-30T17:31:28.318Z
+3845 30th Avenue W, Seattle, WA 98199;759950;ForSale;2;1;Seattle;2024-03-14T20:56:14.950Z
+210 Cozy Lane, Ronald, WA 98940;775500;ForSale;2;2;Ronald;2024-01-27T02:00:04.368Z
+30 N Skokomish Drive, Hoodsport, WA 98548;65000;ForSale;;;Hoodsport;2023-11-14T10:04:59.643Z
+0 Palmer Mountain Road, Oroville, WA 98844;39997;ForSale;;;Oroville;2024-02-27T19:39:01.661Z
+927 E 8th Ave, Spokane, WA 99202;349000;ForSale;2;2;Spokane;2024-03-30T15:48:41.672Z
+1 Grand Ridge Way, Port Angeles, WA 98362;138000;ForSale;;;Pt Angeles;2023-11-03T20:44:45.533Z
+LaCrosse 2 Plan, Goose Ridge Estates;747900;ForSale;4;4;Richland;2024-01-31T13:48:34.253Z
+1040 S 320th Street UNIT 13, Federal Way, WA 98003;329999;ForSale;2;2;Federal Way;2024-03-12T16:11:31.696Z
+11926 W Charles Rd, Nine Mile Falls, WA 99026;639900;ForSale;4;2;Nine Mile Falls;2024-01-06T16:05:49.503Z
+951 McCallum Rd, Victoria, BC V9B 0N6;929000;ForSale;5;2;Victoria;2024-04-04T05:12:13.471Z
+4518 Cashmere Drive NE, Lacey, WA 98516;759950;ForSale;4;3;Lacey;2024-02-28T13:30:04.346Z
+2049 Country Club Way #306, Langford, BC V9B 0H8;625000;ForSale;1;1;Langford;2024-01-21T16:33:16.780Z
+19625 E Wellesley Ave TRAILER 28, Spokane Valley, WA 99027;99000;ForSale;2;1;Spokane Valley;2024-02-06T16:19:34.134Z
+1035 E Mt Baker Street, Othello, WA 99344;359900;ForSale;3;2;Othello;2024-03-20T18:53:37.473Z
+308 Emerald Ave, Grandview, WA 98930;450000;ForSale;4;3;Grandview;2023-11-10T19:36:00.762Z
+5615 S Ferdinand St, Tacoma, WA 98409;459500;ForSale;3;2;Tacoma;2024-04-06T11:34:23.504Z
+705 Warner Street, Sedro Woolley, WA 98284;375000;ForSale;2;1;Sedro Woolley;2024-02-11T03:26:25.382Z
+113 S Neyland Ave APT 2, Liberty Lake, WA 99019;325000;ForSale;2;2;Liberty Lake;2023-12-15T01:42:55.445Z
+11607 E Carlisle Ave, Spokane Valley, WA 99206;195000;ForSale;2;1;Spokane Valley;2024-03-24T00:21:33.661Z
+813 E Mountain View Avenue, Ellensburg, WA 98926;353000;ForSale;3;2;Ellensburg;2024-02-05T12:15:32.880Z
+3412 S Lincoln Pl, Kennewick, WA 99338;510000;ForSale;3;2;Kennewick;2024-03-19T21:23:33.596Z
+1817 Oxbow Street NE, Lacey, WA 98516;464900;ForSale;3;2;Olympia;2024-01-14T20:28:44.803Z
+11 Ridgefield Road, Sequim, WA 98382;965000;ForSale;3;2;Sequim;2024-01-09T01:21:54.394Z
+4816 Maple Ave, Yakima, WA 98901;580000;ForSale;4;4;Yakima;2023-12-02T00:49:40.028Z
+4905 Englewood Ave, Yakima, WA 98908;308000;ForSale;2;2;Yakima;2023-11-27T18:10:33.416Z
+9240 20th Avenue SW UNIT D, Seattle, WA 98106;644000;ForSale;3;2;Seattle;2023-10-21T22:06:44.768Z
+543 Whitworth Avenue S, Renton, WA 98057;799950;ForSale;2;4;Renton;2023-12-04T03:34:02.998Z
+2935 SE 18th St, Auburn, WA 98092;495000;ForSale;3;2;Auburn;2024-02-01T20:51:32.634Z
+302 E 2nd Ave, Post Falls, ID 83854;500000;ForSale;2;2;Post Falls;2023-11-29T03:30:28.925Z
+12009 94th Avenue E, Puyallup, WA 98373;469950;ForSale;3;2;Puyallup;2024-02-27T15:00:39.036Z
+8061 Blanchard Lp Plan, The Heights at Red Mountain Ranch;511900;ForSale;4;3;West Richland;2023-10-17T00:41:08.548Z
+The Morgan - Sanderling Park Plan, Sanderling Park;743210;ForSale;4;3;Ridgefield;2024-01-23T21:27:59.777Z
+2978 Plan, Noll Terrace;899950;ForSale;4;3;Poulsbo;2024-03-16T03:01:50.771Z
+Columbia Plan, Walnut Grove;581900;ForSale;3;2;Vancouver;2024-01-13T00:36:44.351Z
+4956 Wesley Court SE, Auburn, WA 98092;799000;ForSale;5;3;Auburn;2024-01-16T10:38:34.183Z
+2635 Vacation Drive SW, Olympia, WA 98512;849000;ForSale;6;5;Olympia;2024-02-29T05:04:46.285Z
+3016 N Narrows Drive UNIT A 104, Tacoma, WA 98407;650000;ForSale;2;2;Tacoma;2023-11-30T06:00:38.388Z
+3018 Louisiana Street, Longview, WA 98632;395000;ForSale;3;2;Longview;2023-12-11T07:18:59.781Z
+1234 Fort St #406, Victoria, BC V8V 3L2;600000;ForSale;2;2;Victoria;2023-10-24T16:57:35.009Z
+42 Yarrow Lane, East Wenatchee, WA 98802;639000;ForSale;4;4;East Wenatchee;2023-12-11T02:12:25.357Z
+1430 Chestnut St TRAILER 18, Clarkston, WA 99403;172500;ForSale;3;2;Clarkston;2023-11-09T01:19:00.621Z
+21900 SE 242nd Street UNIT D2, Maple Valley, WA 98038;535000;ForSale;2;3;Maple Valley;2024-03-27T20:47:13.714Z
+8624 S 133rd Place, Renton, WA 98178;865000;ForSale;4;4;Seattle;2024-02-14T11:35:37.686Z
+10299 Rising Hill Ln NW, Silverdale, WA 98383;150000;ForSale;;;Silverdale;2023-12-09T20:03:34.954Z
+22800 South Kingston Road NE, Kingston, WA 98346;625000;ForSale;2;2;Kingston;2024-01-29T02:38:15.634Z
+Evia Plan, Tammaron at Lake Sawyer;663900;ForSale;2;2;Black Diamond;2023-11-26T11:48:38.021Z
+461 Bayview Blvd, Newport, WA 99156;725000;ForSale;2;1;Newport;2024-04-08T18:08:07.587Z
+471 Bayview Blvd, Newport, WA 99156;725000;ForSale;2;1;Newport;2023-10-17T13:09:22.357Z
+2255 Highview Lane W UNIT D102, Bremerton, WA 98312;275000;ForSale;3;2;Bremerton;2023-11-13T13:26:56.458Z
+6507 183rd Place SW, Lynnwood, WA 98037;657000;ForSale;2;1;Lynnwood;2023-11-24T18:41:52.701Z
+28454 168th Avenue SE UNIT 24, Kent, WA 98042;130000;ForSale;2;1;Kent;2023-11-28T16:57:28.399Z
+427 S 3rd Street, Chelan, WA 98816;799000;ForSale;6;7;Chelan;2024-03-10T03:04:39.326Z
+2508 Redwood, Longview, WA 98632;464000;ForSale;3;3;Longview;2024-02-12T07:28:28.684Z
+105 D St, Tensed, ID 83870;133000;ForSale;1;1;Tensed;2024-02-12T16:11:12.721Z
+629 N 11th Street, Elma, WA 98541;439950;ForSale;3;2;Elma;2023-12-26T23:21:37.781Z
+114 N 6th St, Yakima, WA 98901;435000;ForSale;3;3;Yakima;2024-03-16T02:22:47.257Z
+8285 Balfour Valley Lane, Maple Falls, WA 98266;425000;ForSale;3;2;Maple Falls;2024-03-18T23:45:54.214Z
+1007 E Rich Ave, Spokane, WA 99207;283000;ForSale;4;1;Spokane;2023-12-22T23:59:07.143Z
+8289 Balfour Valley Lane, Maple Falls, WA 98266;435000;ForSale;4;2;Maple Falls;2024-04-03T04:19:56.403Z
+339 Green Lane, Gold Bar, WA 98251;529950;ForSale;3;2;Gold Bar;2023-11-21T22:35:21.781Z
+86 Engh Road, Omak, WA 98841;549900;ForSale;3;2;Omak;2024-02-23T03:01:54.014Z
+Ash Mountain Plan, Bidwell Park;582000;ForSale;3;2;Colbert;2024-03-03T10:18:22.457Z
+Grandview Plan, Pleasant Woods - GRAND OPENING;691900;ForSale;3;3;Vancouver;2024-03-19T07:41:27.094Z
+0 Ocean Beach Road, Copalis Beach, WA 98535;44800;ForSale;;;Copalis Beach;2024-02-12T10:10:15.586Z
+1920 E Strand Ave, Post Falls, ID 83854;449000;ForSale;3;2;Post Falls;2024-02-21T13:50:10.793Z
+Endeavor Plan, Stonehill : Townhome Collection;374950;ForSale;3;3;Liberty Lake;2024-03-07T12:34:53.352Z
+1517 San Francisco Avenue, Olympia, WA 98506;539000;ForSale;2;2;Olympia;2023-10-24T22:40:34.485Z
+125 Fairway Drive, Sequim, WA 98382;400000;ForSale;2;2;Sequim;2023-10-22T07:02:33.096Z
+313 Chickadee Lane, Sequim, WA 98382;840000;ForSale;5;4;Sequim;2024-01-24T21:41:38.868Z
+16021 2nd Place W, Lynnwood, WA 98087;870000;ForSale;3;3;Lynnwood;2024-01-04T10:25:34.621Z
+7630 University Point Circle NE, Bremerton, WA 98311;555000;ForSale;3;3;Bremerton;2023-11-08T10:28:10.666Z
+Ashland Plan, Elks Landing;950000;ForSale;4;4;Yelm;2024-01-21T15:12:18.510Z
+116 Raintree Loop SE, Rainier, WA 98576;410000;ForSale;2;1;Rainier;2024-02-15T18:59:37.517Z
+1707 25th Street Pl SW, Puyallup, WA 98371;625500;ForSale;3;3;Puyallup;2023-10-16T17:18:38.922Z
+610 Balm Street, Walla Walla, WA 99362;459000;ForSale;3;3;Walla Walla;2024-01-04T18:13:44.324Z
+7449 Old Redmond Rd UNIT 312, Redmond, WA 98052;420000;ForSale;1;1;Redmond;2024-04-04T18:03:38.411Z
+1770 Mapleway Rd, Yakima, WA 98908;285000;ForSale;0;0;Yakima;2024-01-06T07:19:55.238Z
+566 Canal Drive NE, Ocean Shores, WA 98569;429900;ForSale;2;2;Ocean Shores;2024-03-10T10:05:23.192Z
+10104 SW Albany Place, Rochester, WA 98579;795000;ForSale;3;2;Rochester;2023-10-13T23:57:31.603Z
+32912 SE Cottonwood Street, Black Diamond, WA 98010;720000;ForSale;4;3;Black Diamond;2023-10-16T07:17:18.845Z
+15029 Iverson Loop SE, Yelm, WA 98597;529950;ForSale;3;3;Yelm;2023-12-22T13:56:44.166Z
+1407 E Pacific Ave, Spokane, WA 99202;258999;ForSale;4;1;Spokane;2023-12-17T16:29:32.791Z
+770 Fisgard St #332, Victoria, BC V8W 0B8;822500;ForSale;2;2;Victoria;2023-10-13T06:55:17.600Z
+1822 Maple Street, Everett, WA 98201;599900;ForSale;3;4;Everett;2023-12-17T03:23:00.750Z
+6614 S 239th Place UNIT Q105, Kent, WA 98032;450000;ForSale;3;2;Kent;2024-01-09T19:53:35.568Z
+521 Forest Park Street, Port Orchard, WA 98366;410000;ForSale;3;2;Port Orchard;2024-02-17T05:28:06.261Z
+24423 E Maxwell Ln, Liberty Lake, WA 99019;850000;ForSale;6;4;Liberty Lake;2024-03-29T18:18:59.252Z
+4416 Kiowa Drive, Mount Vernon, WA 98273;935000;ForSale;4;3;Mount Vernon;2024-03-20T15:52:47.548Z
+4502 24th Avenue SE, Lacey, WA 98503;479900;ForSale;3;2;Lacey;2024-03-14T15:06:14.044Z
+1429 E 64th Street, Tacoma, WA 98404;989000;ForSale;8;4;Tacoma;2023-11-22T04:49:00.095Z
+35 XX State Route 9, Sedro Woolley, WA 98284;109900;ForSale;;;Sedro Woolley;2024-02-14T22:35:44.620Z
+13001 415th Way SE, North Bend, WA 98045;250000;ForSale;;;North Bend;2024-02-16T18:11:43.658Z
+1423 E 64th Street, Tacoma, WA 98404;989000;ForSale;8;4;Tacoma;2024-01-21T19:50:10.081Z
+6206 NW Cherry St, Vancouver, WA 98663;350000;ForSale;3;2;Vancouver;2024-03-16T05:41:23.390Z
+3110 Weigel Ave, Vancouver, WA 98660;370000;ForSale;3;1;Vancouver;2023-11-02T06:30:38.644Z
+1605 SW 6th St, Battle Ground, WA 98604;475000;ForSale;4;3;Battle Ground;2024-02-18T07:15:22.712Z
+1208 NE 65th St, Vancouver, WA 98665;449900;ForSale;3;2;Vancouver;2024-03-09T18:45:03.182Z
+9510 NE 6th St, Vancouver, WA 98664;450000;ForSale;3;1;Vancouver;2024-03-02T18:42:08.777Z
+2902 NW 105th St, Vancouver, WA 98685;470000;ForSale;3;2;Vancouver;2023-10-24T06:28:01.217Z
+2804 NE 179th Ave, Vancouver, WA 98682;769900;ForSale;3;2;Vancouver;2023-11-23T05:21:45.799Z
+34203 NE 127th Ave, La Center, WA 98629;995000;ForSale;4;3;La Center;2023-11-07T16:23:21.491Z
+14349 NW Lilium Dr, Portland, OR 97229;749000;ForSale;4;3;Portland;2024-01-12T16:07:45.892Z
+15050 NW Vance Dr, Portland, OR 97229;875000;ForSale;5;3;Portland;2023-12-09T19:22:09.182Z
+14946 NE Rose Pkwy #42-B, Portland, OR 97230;299950;ForSale;2;2;Portland;2024-04-05T16:17:55.699Z
+832 NE Failing St, Portland, OR 97212;450000;ForSale;3;2;Portland;2024-02-20T21:23:29.255Z
+3534 NE Alameda St, Portland, OR 97212;789900;ForSale;3;2;Portland;2024-01-31T18:36:23.916Z
+6904 N Ivanhoe St, Portland, OR 97203;369950;ForSale;2;1;Portland;2024-01-25T12:49:33.394Z
+4334 NE Holman St, Portland, OR 97218;530000;ForSale;5;2;Portland;2023-12-29T14:05:25.785Z
+5715 NE Cesar E Chavez Blvd, Portland, OR 97211;485000;ForSale;2;1;Portland;2023-12-02T10:27:00.734Z
+7235 NE 9th Ave, Portland, OR 97211;439900;ForSale;3;1;Portland;2024-03-28T11:31:36.389Z
+2406 Main St, Vancouver, WA 98660;565000;ForSale;2;2;Vancouver;2024-01-23T05:33:26.337Z
+163 Macarthur St, Saint Helens, OR 97051;425000;ForSale;3;2;Saint Helens;2024-02-15T19:23:15.658Z
+59175 Archer Ct, Saint Helens, OR 97051;455000;ForSale;4;4;Saint Helens;2024-01-30T06:48:06.026Z
+75133 Alder Ln, Rainier, OR 97048;625000;ForSale;5;4;Rainier;2024-04-03T05:13:29.845Z
+3232 37th Ct, Washougal, WA 98671;934900;ForSale;3;4;Washougal;2024-03-04T20:16:39.776Z
+10204 NE 28th Ct, Vancouver, WA 98686;775000;ForSale;4;3;Vancouver;2024-01-08T03:54:29.404Z
+606 N V St, Washougal, WA 98671;815000;ForSale;4;5;Washougal;2024-03-10T21:38:52.156Z
+15332 Creek View Ln, Vernonia, OR 97064;399000;ForSale;2;1;Vernonia;2023-11-22T23:31:55.620Z
+1301 E 19th St, The Dalles, OR 97058;550000;ForSale;4;3;The Dalles;2024-02-07T21:12:52.495Z
+250 Lone Pine Ln UNIT 1, The Dalles, OR 97058;399000;ForSale;3;2;The Dalles;2024-01-24T18:37:40.364Z
+3990 Abbey Ln #B309, Astoria, OR 97103;349000;ForSale;;1;Astoria;2023-11-29T10:20:58.018Z
+44 Thompson Trl, Goldendale, WA 98620;725000;ForSale;2;2;Goldendale;2024-03-24T11:33:48.382Z
+1386 Wakeman Ln, Gearhart, OR 97138;649000;ForSale;4;3;Gearhart;2023-12-14T02:12:49.695Z
+369 Gun Club Rd UNIT 37, Woodland, WA 98674;134500;ForSale;3;2;Woodland;2023-10-29T01:21:15.386Z
+1503 W Alder Pl, La Center, WA 98629;739900;ForSale;4;2;La Center;2024-01-08T20:23:35.473Z
+80419 E Highway 82, Wallowa, OR 97885;695000;ForSale;3;2;Wallowa;2023-12-17T08:35:52.493Z
+42211 NW Banks Rd, Banks, OR 97106;315000;ForSale;;;Banks;2023-12-18T05:07:01.224Z
+15103 NE 98th Cir, Vancouver, WA 98682;969000;ForSale;4;4;Vancouver;2023-12-20T22:27:24.176Z
+817 E Autumn Ave, Hermiston, OR 97838;429900;ForSale;3;2;Hermiston;2023-12-05T04:03:19.465Z
+1120 NE 16th St, Battle Ground, WA 98604;630000;ForSale;4;3;Battle Ground;2023-11-06T06:58:05.518Z
+10226 NE 132nd Ave, Vancouver, WA 98682;650000;ForSale;3;2;Vancouver;2023-11-20T11:15:25.734Z
+2 Plantation Dr, White Salmon, WA 98672;334900;ForSale;;;White Salmon;2024-01-28T21:46:29.105Z
+1 Plantation Dr, White Salmon, WA 98672;334900;ForSale;;;White Salmon;2023-12-06T05:56:46.268Z
+NE 113th Loop, Vancouver, WA 98686;449900;ForSale;2;3;Vancouver;2024-03-20T17:50:27.921Z
+6944 N Madison Cir, Ridgefield, WA 98642;479900;ForSale;3;3;Ridgefield;2024-02-09T06:15:11.713Z
+7002 N Madison Cir, Ridgefield, WA 98642;479900;ForSale;3;3;Ridgefield;2024-04-02T22:59:36.985Z
+5805/5807 NE 135th Ave, Vancouver, WA 98682;659000;ForSale;9;6;Vancouver;2024-03-11T09:57:15.367Z
+369 Gun Club Rd UNIT 12, Woodland, WA 98674;165000;ForSale;2;2;Woodland;2024-03-15T07:27:23.993Z
+1 Elk Trail Dr, Nehalem, OR 97131;325000;ForSale;;;Nehalem;2024-03-14T22:21:52.342Z
+0 NE 181st Ave, Yacolt, WA 98675;125000;ForSale;;;Yacolt;2023-10-23T07:58:52.562Z
+207 N Stafford St, Portland, OR 97217;675000;ForSale;4;4;Portland;2023-11-21T03:57:59.004Z
+577 Martins Bluff Road, Kalama, WA 98665;170000;ForSale;;;Kalama;2024-03-19T11:34:55.602Z
+0 7-1 Owl Ridge Drive, Cle Elum, WA 98922;275000;ForSale;;;Cle Elum;2023-11-11T21:07:01.797Z
+255 E 23rd Ave, Kennewick, WA 99337;335000;ForSale;3;2;Kennewick;2023-10-27T13:57:07.539Z
+10748 Glen Acres Drive S UNIT T24, Seattle, WA 98168;400000;ForSale;3;3;Seattle;2024-02-25T16:08:21.634Z
+614 Calistoga Street SE, Olympia, WA 98513;800000;ForSale;3;3;Olympia;2023-12-13T06:44:54.775Z
+The Rhododendron - Build On Your Land Plan, Mid Columbia Valley - Build On Your Own Land - Design Center;236499;ForSale;2;3;Kennewick;2023-11-10T11:03:08.758Z
+5005 Delridge Way SW, Seattle, WA 98106;950000;ForSale;;;Seattle;2024-02-15T04:26:09.964Z
+5011 Delridge Way SW, Seattle, WA 98106;950000;ForSale;;;Seattle;2024-04-01T13:12:39.830Z
+61 E McLane Drive, Shelton, WA 98584;360000;ForSale;3;2;Shelton;2023-11-10T16:09:03.042Z
+8317 S Colwood Rd, Cheney, WA 99004;362995;ForSale;3;2;Cheney;2024-02-24T07:39:28.867Z
+Nka Gurley Rd, Granger, WA 98932;160000;ForSale;;;Granger;2023-10-17T12:29:22.964Z
+3544 S Wapiti Ln, Spokane Valley, WA 99206;415995;ForSale;3;2;Spokane Valley;2024-02-28T23:38:58.777Z
+13433 W 1st Ave, Airway Heights, WA 99001;373995;ForSale;3;2;Airway Heights;2023-10-11T21:02:23.074Z
+8316 S Colwood Rd, Cheney, WA 99004;412995;ForSale;4;2;Cheney;2023-11-20T05:52:43.972Z
+Plan A-290 Plan, Glacier Pointe At Tehaleh;804900;ForSale;4;3;Bonney Lake;2024-01-16T01:27:10.990Z
+1382 Ponderosa Dr, Kettle Falls, WA 99141;460000;ForSale;3;2;Kettle Falls;2023-12-20T12:30:46.187Z
+5604 W Georgetown Ln, Spokane, WA 99208;433995;ForSale;4;2;Spokane;2023-10-13T12:59:40.644Z
+8313 S Colwood Rd, Cheney, WA 99004;382995;ForSale;3;2;Cheney;2024-01-17T22:07:35.896Z
+9502 18th Avenue W UNIT F, Everett, WA 98204;789995;ForSale;3;3;Everett;2024-01-08T15:14:55.662Z
+3915 133rd Street SW, Lynnwood, WA 98087;854995;ForSale;3;3;Lynnwood;2023-12-20T07:55:47.907Z
+258 Karsons Creek Road, Kalama, WA 98625;299900;ForSale;;;Kalama;2024-01-04T01:48:00.861Z
+Nka S Spokane St, Cheney, WA 99004;69000;ForSale;;;Cheney;2024-03-27T05:07:34.678Z
+310 S 1st Street, Roslyn, WA 98941;547000;ForSale;3;1;Roslyn;2023-10-27T10:28:46.797Z
+1007 E Cascade Street, Othello, WA 99344;354300;ForSale;3;2;Othello;2024-03-08T21:10:05.552Z
+22979 Methow Court, Mount Vernon, WA 98273;249999;ForSale;;;Mount Vernon;2024-02-12T21:22:36.413Z
+932 E Cascade Street, Othello, WA 99344;356900;ForSale;3;2;Othello;2024-03-02T11:59:49.354Z
+0 Tomihi Drive, Orcas Island, WA 98245;385000;ForSale;;;Orcas Island;2023-12-29T22:25:42.985Z
+5639 Eveningside Lane, Freeland, WA 98249;700000;ForSale;3;3;Freeland;2024-01-22T14:00:37.476Z
+202 Karsons Creek Road, Kalama, WA 98625;190000;ForSale;;;Kalama;2023-10-29T18:56:10.962Z
+89 Little Buck Lane, Monitor, WA 98836;199000;ForSale;;;Monitor;2024-04-09T02:19:28.109Z
+4311 A State Route 508, Onalaska, WA 98533;225000;ForSale;;;Cinebar;2024-03-08T17:39:42.451Z
+3904 133rd Street SW, Lynnwood, WA 98087;904995;ForSale;3;3;Lynnwood;2023-11-19T13:47:45.287Z
+1121 244th Street SW UNIT 38, Bothell, WA 98021;199950;ForSale;3;2;Bothell;2024-01-20T14:23:02.850Z
+10203 47th Avenue SW UNIT C17, Seattle, WA 98146;675000;ForSale;2;2;Seattle;2023-12-20T12:25:27.570Z
+1402 Ocean Aire Court, Freeland, WA 98249;695000;ForSale;3;3;Freeland;2023-11-22T12:15:39.082Z
+4311 B State Route 508, Cinebar, WA 98533;269000;ForSale;;;Cinebar;2023-11-04T16:43:44.884Z
+28600 N Mount Spokane Park Dr #612, Mead, WA 99021;130000;ForSale;1;1;Mead;2024-04-09T03:42:08.986Z
+9628 19TH Avenue SE UNIT A, Everett, WA 98208;584995;ForSale;2;3;Everett;2023-11-02T12:00:18.648Z
+220 Moss St #3, Victoria, BC V8V 4M4;789000;ForSale;2;1;Victoria;2024-01-29T02:38:46.520Z
+2321 W Willow Street, Moses Lake, WA 98837;307500;ForSale;3;1;Moses Lake;2024-01-17T20:55:57.831Z
+13426 Whites Road, Arlington, WA 98223;459950;ForSale;3;2;Arlington;2024-04-02T21:20:53.042Z
+760 Johnson St #1001, Victoria, BC V8W 0A4;699000;ForSale;2;1;Victoria;2023-12-11T01:47:54.910Z
+Nka Miskin Rd LOT 12, Worley, ID 83876;429000;ForSale;;0;Worley;2024-01-18T21:45:02.476Z
+9128 169th Street E, Puyallup, WA 98375;550000;ForSale;2;2;Puyallup;2023-11-02T10:52:23.388Z
+20123 E 14th Avenue Ct, Spanaway, WA 98387;475000;ForSale;3;3;Spanaway;2023-12-25T18:16:18.447Z
+322 East Valley Road, Skamokawa, WA 98647;425000;ForSale;4;2;Skamokawa;2024-03-11T02:21:04.666Z
+222 N Hutchinson Rd APT 203, Spokane Valley, WA 99212;205000;ForSale;2;1;Spokane Valley;2023-10-16T00:38:51.631Z
+1111 Chinook Dr, Richland, WA 99352;569000;ForSale;4;3;Richland;2023-11-25T14:53:37.389Z
+4908 206th Street Ct E, Spanaway, WA 98387;640000;ForSale;4;3;Spanaway;2024-01-02T02:11:27.494Z
+1206 NW Tahoe Ln, Silverdale, WA;;;;;Silverdale;2023-12-26T18:24:42.800Z
+10485 NE 6th St, Bellevue, WA;;;;;Bellevue;2023-12-04T16:50:06.194Z
+600 S Marina Way, Washougal, WA;;;;;Washougal;2024-03-20T15:31:11.843Z
+18815 Aurora Ave N, Seattle, WA;;;;;Seattle;2023-12-02T08:24:38.120Z
+10710 NE 10th St, Bellevue, WA;;;;;Bellevue;2024-03-05T03:40:45.543Z
+8180 W 4th Ave, Kennewick, WA;;;;;Kennewick;2024-02-02T21:54:38.574Z
+10602 Burns Rd, Pasco, WA;;;;;Pasco;2023-12-17T04:53:19.658Z
+821 N Stanley St, Medical Lake, WA;;;;;Medical Lake;2024-03-18T17:06:55.202Z
+1600 E St, Vancouver, WA;;;;;Vancouver;2024-03-24T12:31:49.382Z
+2600 NE Minnehaha St, Vancouver, WA;;;;;Vancouver;2023-12-18T13:01:44.298Z
+2000 SE Sedgwick Rd, Pt Orchard, WA;;;;;Pt Orchard;2023-12-20T08:30:25.672Z
+500 W Columbia Way, Vancouver, WA;;;;;Vancouver;2023-10-27T12:11:01.747Z
+11301 SE 10th St, Vancouver, WA;;;;;Vancouver;2023-12-08T16:58:35.718Z
+8000 Paradise Way, West Richland, WA;;;;;West Richland;2023-12-29T14:04:20.842Z
+800 Yauger Way SW, Olympia, WA;;;;;Olympia;2023-11-01T20:51:14.203Z
+Symphony Apartments, 4221 37th Ave S, Seattle, WA 98118;1695;ForRent;0;1;Seattle;2024-03-26T11:56:00.589Z
+20455 1st Ave NE, Poulsbo, WA;;;;;Poulsbo;2024-02-16T13:21:43.452Z
+7968 W 10th Ct, Kennewick, WA;;;;;Kennewick;2024-04-02T16:03:18.181Z
+1711 12th Ave, Seattle, WA;;;;;Seattle;2024-01-20T10:51:42.557Z
+7705 168th Ave NE, Redmond, WA;;;;;Redmond;2024-03-03T23:19:31.680Z
+Angelo Tower, 330 E Mill Plain Blvd APT 505, Vancouver, WA 98660;1806;ForRent;1;1;Vancouver;2023-12-07T15:46:37.148Z
+1201 E Helena Ave, Ellensburg, WA;;;;;Ellensburg;2024-01-21T16:39:00.043Z
+Pinehurst, 11500 Pinehurst Way NE #411, Seattle, WA 98125;1749;ForRent;1;1;Seattle;2023-12-04T08:24:15.969Z
+8991 N Dogwood St, Camas, WA;;;;;Camas;2024-01-28T21:05:43.974Z
+355 Bradley Blvd, Richland, WA;;;;;Richland;2024-02-09T13:24:55.395Z
+Sunset View, 7713 44th St W #55, Tacoma, WA 98466;1595;ForRent;1;1;Tacoma;2024-03-08T18:33:43.233Z
+North Court, 2237 N 106th St, Seattle, WA 98133;1530;ForRent;1;1;Seattle;2023-12-30T03:31:14.510Z
+140 Lake St S, Kirkland, WA;;;;;Kirkland;2023-11-18T15:28:13.528Z
+34907 SE Kinsey St, Snoqualmie, WA;;;;;Snoqualmie;2024-01-29T08:48:11.913Z
+26031 72nd Ave NW, Stanwood, WA;;;;;Stanwood;2023-12-27T05:02:29.011Z
+4425 Harbor Country Dr NW, Gig Harbor, WA;;;;;Gig Harbor;2024-01-23T14:29:54.069Z
+809 S Washington St, Seattle, WA;;;;;Seattle;2024-03-16T11:36:10.414Z
+7992 W 10th Ave, Kennewick, WA;;;;;Kennewick;2024-02-02T06:44:32.578Z
+7101 NE 109th St, Vancouver, WA;;;;;Vancouver;2024-02-03T20:40:12.477Z
+View At Bitter Lake, 13410 Greenwood Ave N APT 213, Seattle, WA 98133;1850;ForRent;2;2;Seattle;2024-01-22T00:04:02.182Z
+623 W Stevens Rd, Burlington, WA;;;;;Burlington;2023-10-28T18:59:59.133Z
+1405 NE 88th St, Vancouver, WA;;;;;Vancouver;2023-12-13T17:14:17.507Z
+1705 Dock St, Tacoma, WA;;;;;Tacoma;2023-12-11T15:59:46.310Z
+1800 S Jackson St, Seattle, WA;;;;;Seattle;2023-12-05T12:04:52.911Z
+1525 Rock Creek Ridge Blvd SW, North Bend, WA;;;;;North Bend;2023-11-12T23:45:10.346Z
+4141 N Williams Ave, Portland, OR;;;;;Portland;2024-03-13T11:59:21.954Z
+12717 E 4th Ave, Spokane, WA;;;;;Spokane;2023-10-26T17:16:47.122Z
+207 Meridian Ave E, Puyallup, WA;;;;;Puyallup;2023-12-24T22:36:19.674Z
+Taylor Place & Elliott Lofts, 7110 265th St NW, Stanwood, WA 98292;1500;ForRent;0;1;Stanwood;2023-11-07T21:22:48.108Z
+6701 W Argent Rd, Pasco, WA;;;;;Pasco;2024-01-30T01:36:24.704Z
+Cully Townhomes, 5309-5331 NE Cully Blvd, Portland, OR 97218;2449;ForRent;3;2;Portland;2023-11-28T06:37:50.456Z
+7110 N Greenwich Ave, Portland, OR;;;;;Portland;2024-02-21T19:58:46.039Z
+11012 Portland Ave E, Tacoma, WA;;;;;Tacoma;2024-04-08T09:24:15.504Z
+1704 Barnes Blvd SW, Olympia, WA;;;;;Olympia;2024-02-22T22:01:41.132Z
+1400 Central Ave, Wenatchee, WA;;;;;Wenatchee;2023-10-11T22:05:39.457Z
+20505 Olympic Pl NE, Arlington, WA;;;;;Arlington;2024-01-26T00:45:07.344Z
+1441 NE 136th Ave, Vancouver, WA;;;;;Vancouver;2023-12-11T11:05:00.543Z
+20554 NW Lapine Way, Portland, OR;;;;;Portland;2024-03-02T11:00:41.028Z
+1410 Wendell Ave SE, Pt Orchard, WA;;;;;Pt Orchard;2024-01-08T17:56:52.723Z
+5125 Labounty Dr, Ferndale, WA;;;;;Ferndale;2024-02-13T00:30:34.554Z
+Parkway Garden, 14124 NE Sandy Blvd, Portland, OR 97230;1620;ForRent;3;1;Portland;2024-03-15T03:55:05.482Z
+315 N Worthen St, Wenatchee, WA;;;;;Wenatchee;2024-03-10T07:23:35.959Z
+11501 Clear Creek Rd NW, Silverdale, WA;;;;;Silverdale;2024-01-29T08:34:09.204Z
+600 SE 177th Ave, Vancouver, WA;;;;;Vancouver;2023-11-29T14:15:24.635Z
+10610 16th Avenue Ct S, Tacoma, WA;;;;;Tacoma;2023-10-14T22:33:20.011Z
+83 NE Ridge Point Blvd, Belfair, WA;;;;;Belfair;2024-03-11T05:00:59.942Z
+CityScape Apartments, 558 121st Pl NE #305, Bellevue, WA 98005;2095;ForRent;0;1;Bellevue;2023-12-02T09:13:06.166Z
+4801 Rainier Ave S, Seattle, WA;;;;;Seattle;2024-01-05T09:04:03.868Z
+130 SW 112th St, Seattle, WA;;;;;Seattle;2023-10-30T06:26:00.941Z
+631 SW 150th St, Seattle, WA;;;;;Seattle;2024-02-18T19:08:41.545Z
+229 Andover Park E, Seattle, WA;;;;;Seattle;2023-10-31T06:05:20.549Z
+505 SE 184th Ave, Vancouver, WA;;;;;Vancouver;2024-02-03T20:28:51.646Z
+15350 Bel Red Rd, Redmond, WA;;;;;Redmond;2023-12-15T21:16:18.071Z
+2721 Wetmore Ave, Everett, WA;;;;;Everett;2024-04-04T20:21:52.840Z
+Edge Apartments, 8356 165th Ave NE APT 207, Redmond, WA 98052;2435;ForRent;1;1;Redmond;2024-01-14T15:12:34.085Z
+3724 Ensign Rd NE, Olympia, WA;;;;;Olympia;2024-01-14T23:32:03.874Z
+1933 Dock St, Tacoma, WA;;;;;Tacoma;2024-01-18T01:01:15.366Z
+The Hanover, 3117 S 192nd St, Seattle, WA 98188;1950;ForRent;2;1;Seattle;2024-02-22T07:53:38.020Z
+10105 SE 236th St, Kent, WA;;;;;Kent;2024-02-21T18:24:06.500Z
+250 Gage Blvd, Richland, WA;;;;;Richland;2024-03-31T13:03:51.608Z
+1250 Central Ave, Wenatchee, WA;;;;;Wenatchee;2023-11-20T03:55:40.681Z
+11900 NE 103rd St, Vancouver, WA;;;;;Vancouver;2024-02-26T12:36:43.866Z
+288 106th Ave NE, Bellevue, WA;;;;;Bellevue;2024-04-05T17:02:27.173Z
+4602 NE 72nd Ave, Vancouver, WA;;;;;Vancouver;2023-12-20T13:19:19.825Z
+12101 Greenhaven, Mukilteo, WA;;;;;Mukilteo;2024-02-02T21:36:02.722Z
+3928 Northwest Ave, Bellingham, WA;;;;;Bellingham;2023-11-01T21:01:57.865Z
+500 Yale Ave N, Seattle, WA;;;;;Seattle;2023-10-30T02:39:46.407Z
+953 Hodgin St, Sedro Woolley, WA;;;;;Sedro Woolley;2023-12-28T15:44:18.846Z
+12311 32nd Ave NE, Seattle, WA;;;;;Seattle;2023-10-22T20:53:03.082Z
+6559 15th Ave NW, Seattle, WA;;;;;Seattle;2023-10-27T21:45:44.892Z
+11501 15th Ave NE, Seattle, WA;;;;;Seattle;2023-11-02T08:04:40.155Z
+2420 N Airport Rd, Ellensburg, WA;;;;;Ellensburg;2024-02-17T20:00:32.790Z
+Avanti, 1401 Boren Ave APT 1119, Seattle, WA 98101;2799;ForRent;2;2;Seattle;2024-04-04T01:36:12.873Z
+Victor Apartments, 1705 S Stevens St, Seattle, WA 98144;5000;ForRent;1;1;Seattle;2024-03-10T02:02:11.941Z
+508 W 6th Ave, Spokane, WA;;;;;Spokane;2024-02-06T17:17:18.243Z
+23425 SE Black Nugget Rd, Issaquah, WA;;;;;Issaquah;2024-03-26T11:25:44.611Z
+720 N Arthur St, Kennewick, WA;;;;;Kennewick;2024-03-09T00:04:42.019Z
+711 NE 112th Ave, Vancouver, WA;;;;;Vancouver;2024-04-06T21:00:04.991Z
+1733 Payseno Ln SE, Pt Orchard, WA;;;;;Pt Orchard;2024-01-02T10:56:44.987Z
+3706 Larson Ln W, Tacoma, WA;;;;;Tacoma;2024-03-13T15:00:18.973Z
+714 S Hatch St, Spokane, WA;;;;;Spokane;2024-02-04T02:44:05.994Z
+1101 N Mountain View Ave, Tacoma, WA;;;;;Tacoma;2024-04-04T14:01:30.440Z
+2122 NE Hostmark St, Poulsbo, WA;;;;;Poulsbo;2024-01-13T22:34:56.651Z
+2120 SW 352nd St, Federal Way, WA;;;;;Federal Way;2023-12-14T15:37:32.631Z
+120 Westlake Ave N, Seattle, WA;;;;;Seattle;2023-10-16T21:46:17.102Z
+17620 80th Ave NE, Kenmore, WA;;;;;Kenmore;2023-10-24T01:27:30.131Z
+5100 Summit, 5102 110th St E #C101, Tacoma, WA 98446;1800;ForRent;1;1;Tacoma;2024-02-18T12:26:20.026Z
+820 NE Colorado St, Pullman, WA;;;;;Pullman;2023-11-27T06:58:06.555Z
+4730 21st Ave NE, Seattle, WA;;;;;Seattle;2023-10-25T10:49:39.412Z
+101 6th Ave S, Seattle, WA;;;;;Seattle;2024-03-08T08:22:16.263Z
+1653 Starlight Ln SW, Olympia, WA;;;;;Olympia;2023-10-29T16:25:15.657Z
+312 Central Way, Kirkland, WA;;;;;Kirkland;2024-01-25T18:54:10.226Z
+5906 158th Avenue Ct E, Sumner, WA;;;;;Sumner;2023-12-28T20:48:28.417Z
+23605 62nd Ave S, Kent, WA;;;;;Kent;2023-11-11T22:52:24.404Z
+430 W Stuart Rd, Bellingham, WA;;;;;Bellingham;2024-03-05T06:49:39.737Z
+414 SW Hayworth Dr, Pt Orchard, WA;;;;;Pt Orchard;2023-11-16T21:46:56.726Z
+6979 Birdseye Ave NE, Olympia, WA;;;;;Olympia;2024-01-09T07:01:51.003Z
+7000 NE 186th Pl, Kenmore, WA;;;;;Kenmore;2023-11-07T21:54:02.004Z
+333 NE 136th Ave, Vancouver, WA;;;;;Vancouver;2023-12-26T02:17:04.991Z
+23913 111th Pl SE, Kent, WA;;;;;Kent;2023-11-07T23:56:37.705Z
+1401 Merrill Creek Pkwy, Everett, WA;;;;;Everett;2024-03-22T01:01:33.230Z
+8519 Oya Ln SE, Olympia, WA;;;;;Olympia;2024-01-27T18:50:18.690Z
+1309 W 1st Ave, Spokane, WA;;;;;Spokane;2023-11-27T17:46:55.823Z
+1517 Bishop Rd SW, Olympia, WA;;;;;Olympia;2023-12-29T05:44:25.862Z
+52588 NE Sawyer St, Scappoose, OR;;;;;Scappoose;2024-01-20T04:18:57.801Z
+570 N Idahline Rd, Post Falls, ID;;;;;Post Falls;2023-12-02T01:43:42.119Z
+1300 Mahogany Ave, Bellingham, WA;;;;;Bellingham;2023-12-27T12:40:31.880Z
+2400 NE 112th Ave, Vancouver, WA;;;;;Vancouver;2023-10-14T02:44:52.223Z
+7714 NE 39th Ct, Vancouver, WA;;;;;Vancouver;2023-10-27T18:30:27.005Z
+1688 Stella Ave, Wenatchee, WA;;;;;Wenatchee;2023-11-08T09:32:08.062Z
+Southridge, 2700 S Meridian, Puyallup, WA 98373;1600;ForRent;1;1;Puyallup;2024-04-02T02:12:02.623Z
+6900 NE 154th Ave, Vancouver, WA;;;;;Vancouver;2024-01-21T18:42:38.351Z
+1111 W Columbia Way, Vancouver, WA;;;;;Vancouver;2023-11-17T02:27:45.851Z
+441 S 69th Pl, Ridgefield, WA;;;;;Ridgefield;2024-03-20T20:04:16.720Z
+8675 Litt Dr SE, Olympia, WA;;;;;Olympia;2024-01-09T09:52:33.677Z
+17775 SE Mill Plain Blvd, Vancouver, WA;;;;;Vancouver;2024-04-02T01:26:43.936Z
+7301 NE 13th Ave, Vancouver, WA;;;;;Vancouver;2023-12-21T20:59:23.965Z
+601 E Pike St, Seattle, WA;;;;;Seattle;2023-12-19T00:14:41.378Z
+11301 3rd Ave NE, Seattle, WA;;;;;Seattle;2024-04-02T05:42:54.253Z
+6705 Linderson Way SW, Olympia, WA;;;;;Olympia;2024-04-07T23:40:05.106Z
+6926 5th St E, Tacoma, WA;;;;;Tacoma;2023-12-12T15:19:47.193Z
+5302 NE 72nd Ave, Vancouver, WA;;;;;Vancouver;2023-10-15T23:46:47.196Z
+Willow Terrace, 1100 S 99th St, Seattle, WA 98108;1514;ForRent;1;1;Seattle;2024-01-15T18:40:08.392Z
+1705 Stella Ave, Wenatchee, WA;;;;;Wenatchee;2023-10-13T20:03:19.232Z
+1970 NE Fuson Rd, Bremerton, WA;;;;;Bremerton;2023-12-03T22:56:43.709Z
+9231 Skokomish Way NE, Olympia, WA;;;;;Olympia;2024-02-18T13:09:49.924Z
+5499 15th Ave NE, Olympia, WA;;;;;Olympia;2024-03-31T01:14:18.109Z
+Harbor Pointe, 2215 47th St NW, Gig Harbor, WA 98335;1895;ForRent;2;1;Gig Harbor;2023-10-14T13:54:44.331Z
+6015 N Interstate Ave, Portland, OR;;;;;Portland;2023-12-22T05:08:16.167Z
+575 on the Columbia, 575 Columbia Point Dr #219, Richland, WA 99352;1500;ForRent;1;1;Richland;2024-01-02T14:17:13.243Z
+4150 N Williams Ave, Portland, OR;;;;;Portland;2023-10-21T00:25:22.593Z
+Riverview Apartments, 3003 NE 3rd Ave APT 114, Camas, WA 98607;1625;ForRent;2;1;Camas;2023-11-28T19:37:08.547Z
+3725 Wildspitz St SE, Lacey, WA;;;;;Lacey;2024-01-18T13:16:32.226Z
+420 W Stuart Rd, Bellingham, WA;;;;;Bellingham;2023-11-18T10:51:20.546Z
+8937 N Westanna Ave, Portland, OR;;;;;Portland;2023-11-27T06:22:38.985Z
+2116 4th Ave, Seattle, WA;;;;;Seattle;2024-03-12T03:46:40.982Z
+2210 70th Ave W, Tacoma, WA;;;;;Tacoma;2024-02-02T08:56:03.173Z
+Quilceda Gardens, 1248 Cedar Ave #28, Marysville, WA 98270;2190;ForRent;2;1;Marysville;2024-01-28T02:24:03.032Z
+1035 S Whitman St, Tacoma, WA;;;;;Tacoma;2024-03-29T18:05:47.901Z
+10735 Roosevelt Way NE, Seattle, WA;;;;;Seattle;2023-10-12T19:40:01.221Z
+4201 Bridgeport Way W, Tacoma, WA;;;;;Tacoma;2024-02-07T13:10:08.813Z
+1330 NE 136th Ave, Vancouver, WA;;;;;Vancouver;2023-11-25T17:35:48.076Z
+102 Madison Ave E, Kent, WA;;;;;Kent;2024-04-06T18:08:14.171Z
+20225 Bothell Everett Hwy, Bothell, WA;;;;;Bothell;2024-03-16T19:32:20.474Z
+509 1st, 509 1st Ave W #304, Seattle, WA 98119;1595;ForRent;1;1;Seattle;2023-11-15T05:52:45.286Z
+504 5th Ave S, Seattle, WA;;;;;Seattle;2023-11-28T18:29:42.265Z
+2100 Electric Ave, Bellingham, WA;;;;;Bellingham;2024-03-19T22:24:51.165Z
+1090 W Betz Rd, Cheney, WA;;;;;Cheney;2023-12-07T16:49:38.097Z
+3810 Riverfront Blvd, Everett, WA;;;;;Everett;2024-03-23T11:03:32.570Z
+6208 NE 17th Ave, Vancouver, WA;;;;;Vancouver;2023-12-03T12:24:22.602Z
+15808 Bear Creek Pkwy, Redmond, WA;;;;;Redmond;2023-11-30T05:49:46.547Z
+100 SE Olympia Dr, Vancouver, WA;;;;;Vancouver;2024-03-18T13:41:14.050Z
+4746 20th Ave NE, Seattle, WA;;;;;Seattle;2024-01-14T00:44:05.716Z
+Balfour Place Apartments, 1820 Minor Ave, Seattle, WA 98101;1500;ForRent;0;1;Seattle;2023-11-15T12:56:53.968Z
+7128 NW 159th Ave, Portland, OR;;;;;Portland;2024-03-06T18:11:07.664Z
+901 8th Ave, Seattle, WA;;;;;Seattle;2023-11-13T19:47:38.406Z
+125 Boren Ave S, Seattle, WA;;;;;Seattle;2023-11-19T01:20:38.691Z
+The Vantage, 418 W Bakerview Rd #603, Bellingham, WA 98226;1850;ForRent;1;1;Bellingham;2023-11-16T11:47:57.784Z
+1823 Minor Ave, Seattle, WA;;;;;Seattle;2023-12-04T20:03:55.365Z
+9039 Greenwood Ave N, Seattle, WA;;;;;Seattle;2024-02-12T02:47:53.372Z
+999 Hiawatha Pl S, Seattle, WA;;;;;Seattle;2024-01-15T22:24:20.481Z
+2501 NE 138th Ave, Vancouver, WA;;;;;Vancouver;2024-01-04T17:13:22.683Z
+1119 C St, Vancouver, WA;;;;;Vancouver;2023-11-11T00:23:22.739Z
+8825 Martin Way E, Olympia, WA;;;;;Olympia;2023-12-03T06:08:48.931Z
+16609 E Desmet Ct, Spokane, WA;;;;;Spokane;2024-03-06T05:33:13.523Z
+Westside Estates Apartment Homes, 922 N Pearl St, Tacoma, WA 98406;1205;ForRent;1;1;Tacoma;2024-02-03T01:26:57.564Z
+12119 NE 28th St, Vancouver, WA;;;;;Vancouver;2023-12-13T00:13:27.168Z
+3701 S Hudson St, Seattle, WA;;;;;Seattle;2023-12-29T20:49:09.675Z
+15551 NE Turing St, Redmond, WA;;;;;Redmond;2024-02-22T19:16:44.820Z
+625 Wellington Ave, Walla Walla, WA;;;;;Walla Walla;2023-11-28T11:33:15.580Z
+12863 Northup Way, Bellevue, WA;;;;;Bellevue;2023-12-10T20:30:56.586Z
+3900 Southcenter Blvd, Seattle, WA;;;;;Seattle;2024-01-24T00:51:26.014Z
+1601 9th Ave, Seattle, WA;;;;;Seattle;2024-01-17T04:03:09.253Z
+4030 N Williams Ave, Portland, OR;;;;;Portland;2024-02-21T05:00:03.685Z
+7127 31st Ave NE, Olympia, WA;;;;;Olympia;2024-03-06T12:48:11.494Z
+6900 S 125th St, Seattle, WA;;;;;Seattle;2023-11-28T06:09:10.293Z
+2715 62nd Ave E, Fife, WA;;;;;Fife;2023-10-27T02:29:55.652Z
+4523 Briggs Dr S, Olympia, WA;;;;;Olympia;2024-02-14T13:32:31.875Z
+4632 Fowler Ave, Everett, WA;;;;;Everett;2024-02-19T01:17:14.362Z
+1205 Grant Ave S, Renton, WA;;;;;Renton;2024-03-12T03:51:31.181Z
+8300 160th Ave NE, Redmond, WA;;;;;Redmond;2023-12-10T05:51:38.592Z
+1101-1105 Red Apple Rd, Wenatchee, WA;;;;;Wenatchee;2024-02-10T14:23:33.551Z
+16119 SE 1st St, Vancouver, WA;;;;;Vancouver;2023-11-18T16:03:58.053Z
+3725 N 27th St, Tacoma, WA;;;;;Tacoma;2023-12-26T19:08:09.518Z
+11903 NE 116th St, Vancouver, WA;;;;;Vancouver;2024-02-14T18:31:57.554Z
+475 E North Bend Way, North Bend, WA;;;;;North Bend;2023-10-30T18:57:55.041Z
+3414 NW Kensington Ln, Silverdale, WA;;;;;Silverdale;2024-02-05T17:13:03.212Z
+8101 83rd Ave SW, Lakewood, WA;;;;;Lakewood;2024-02-11T20:41:25.469Z
+737 7th St SE, Puyallup, WA;;;;;Puyallup;2023-12-11T18:05:22.047Z
+22870 SE Fir St, Black Diamond, WA;;;;;Black Diamond;2023-12-26T03:12:49.041Z
+11510 NE 112th Dr, Vancouver, WA;;;;;Vancouver;2023-11-24T21:13:46.245Z
+3206 Harvard Ave E, Seattle, WA;;;;;Seattle;2024-01-10T00:14:20.227Z
+3040 NW Market St, Seattle, WA;;;;;Seattle;2023-10-24T21:49:36.635Z
+Highlands, 7399 Delaware Ln, Vancouver, WA 98664;2000;ForRent;3;1.5;Vancouver;2023-11-16T21:59:36.928Z
+1020 108th Ave NE, Bellevue, WA;;;;;Bellevue;2024-03-17T01:56:57.890Z
+7116 204th St NE, Arlington, WA;;;;;Arlington;2023-11-19T04:35:16.082Z
+10215 Lake City Way NE, Seattle, WA;;;;;Seattle;2023-12-28T06:30:04.684Z
+1701 121st St SE, Everett, WA;;;;;Everett;2024-03-11T13:57:11.876Z
+2555 Duportail St, Richland, WA;;;;;Richland;2024-03-30T13:57:13.611Z
+Ellis Court, 2510 Western Ave #110, Seattle, WA 98121;1359;ForRent;0;1;Seattle;2024-01-17T22:57:33.541Z
+10777 Main St, Bellevue, WA;;;;;Bellevue;2024-01-28T21:02:58.515Z
+1027 N Meridian Ave, Puyallup, WA;;;;;Puyallup;2023-11-14T07:36:01.755Z
+Stowell, 949 N 80th St #305, Seattle, WA 98103;1375;ForRent;0;1;Seattle;2024-03-07T13:51:43.887Z
+9634 Thorsk St, Bothell, WA;;;;;Bothell;2024-01-13T04:57:58.387Z
+612 S Lincoln St, Spokane, WA;;;;;Spokane;2023-11-13T19:28:38.916Z
+4530 Briggs Dr SE, Olympia, WA;;;;;Olympia;2023-11-01T11:59:17.814Z
+4425 Issaquah Pine Lake Rd SE, Sammamish, WA;;;;;Sammamish;2024-02-25T22:28:36.609Z
+23502 16th Ave S, Seattle, WA;;;;;Seattle;2023-12-01T13:00:23.180Z
+17424 122nd Ave E, Puyallup, WA;;;;;Puyallup;2024-03-12T06:46:19.145Z
+2501 SW 336th St, Federal Way, WA;;;;;Federal Way;2023-11-03T14:58:08.635Z
+17500 25th Ave NE, Marysville, WA;;;;;Marysville;2024-03-03T08:03:09.021Z
+13507 99th Ave E, Puyallup, WA;;;;;Puyallup;2024-02-28T20:52:14.550Z
+10415 SE 174th St, Renton, WA;;;;;Renton;2023-12-28T15:41:22.614Z
+1310 Minor Ave, Seattle, WA;;;;;Seattle;2023-10-21T02:55:34.678Z
+4727 200th St SW, Lynnwood, WA;;;;;Lynnwood;2023-12-28T20:56:00.520Z
+95 Burnett Ave S, Renton, WA;;;;;Renton;2023-10-29T00:10:08.627Z
+Bethany West, 16107 NW Brugger Rd #16112-302, Portland, OR 97229;2595;ForRent;3;2;Portland;2024-03-30T02:21:33.796Z
+5512 17th Ave NW, Seattle, WA;;;;;Seattle;2024-03-17T17:32:22.040Z
+7107 NW 159th Ave, Portland, OR;;;;;Portland;2023-11-11T07:31:10.302Z
+4701 NE 72nd Ave, Vancouver, WA;;;;;Vancouver;2024-01-22T09:38:59.232Z
+Narrows Landing Apartments, 550 Lebo Blvd #26, Bremerton, WA 98310;1450;ForRent;1;1;Bremerton;2024-02-29T10:47:34.769Z
+913 S Jackson St, Seattle, WA;;;;;Seattle;2023-12-21T12:31:32.139Z
+306 Queen Anne Ave N, Seattle, WA;;;;;Seattle;2024-01-24T23:48:28.581Z
+6501 20th St E, Tacoma, WA;;;;;Tacoma;2024-01-20T01:35:09.299Z
+1535 Bellevue Ave, Seattle, WA;;;;;Seattle;2023-12-13T19:18:52.555Z
+9902 Cranberry Ln NW, Silverdale, WA;;;;;Silverdale;2023-11-12T00:57:41.605Z
+5 W Roy St, Seattle, WA;;;;;Seattle;2023-10-17T00:13:47.960Z
+4822 Rural Rd SW, Olympia, WA;;;;;Olympia;2023-12-25T17:07:15.052Z
+11923 State Ave, Marysville, WA;;;;;Marysville;2023-12-27T08:03:17.882Z
+2002 N Monroe St, Spokane, WA;;;;;Spokane;2023-11-07T08:05:08.050Z
+17735 105th Pl SE, Renton, WA;;;;;Renton;2023-10-28T09:03:04.806Z
+18333 Bothell Way NE, Bothell, WA;;;;;Bothell;2023-12-05T03:43:34.405Z
+Cirque West, 7704 Cirque Dr W, University Place, WA 98467;1495;ForRent;1;1;University Place;2024-01-17T17:36:58.685Z
+8Hundred West, 800 Alta St SW APT C104, Olympia, WA 98502;1699;ForRent;1;1;Olympia;2023-12-12T10:45:45.684Z
+Overlook Park, 3705 N Overlook Blvd APT 311, Portland, OR 97227;1349;ForRent;1;1;Portland;2023-11-07T10:21:55.876Z
+1805 186th Pl SE, Bothell, WA;;;;;Bothell;2024-03-19T17:03:38.699Z
+5508 Chicago Ave SW, Lakewood, WA;;;;;Lakewood;2024-01-14T18:02:17.424Z
+11806 NE 122nd Ave, Vancouver, WA;;;;;Vancouver;2024-04-06T22:44:27.140Z
+1015 112th St E, Tacoma, WA;;;;;Tacoma;2024-02-17T02:35:02.792Z
+2921 Westgate Rd, Pendleton, OR;;;;;Pendleton;2024-03-09T11:14:09.266Z
+9701 NE 25th Ave, Vancouver, WA;;;;;Vancouver;2024-04-08T09:24:04.149Z
+2478 Rossiter Ln, Vancouver, WA;;;;;Vancouver;2024-04-05T18:15:22.605Z
+3815 Elwood Ave, Bellingham, WA;;;;;Bellingham;2024-03-11T15:03:22.216Z
+403 Dexter Ave N, Seattle, WA;;;;;Seattle;2024-03-02T11:29:44.759Z
+8704 Greenwood Ave N, Seattle, WA;;;;;Seattle;2023-11-24T11:31:56.464Z
+5412 58th Street Ct W, University Place, WA;;;;;University Place;2023-10-19T14:02:35.441Z
+1537 NW 56th St, Seattle, WA;;;;;Seattle;2024-01-26T18:08:14.236Z
+1315 Pacific Ave, Everett, WA;;;;;Everett;2023-10-23T09:20:18.111Z
+905 SE 136th Ave, Vancouver, WA;;;;;Vancouver;2024-02-09T15:31:29.684Z
+2334 Elliott Ave, Seattle, WA;;;;;Seattle;2024-01-27T13:30:20.750Z
+1060 Insignia Loop, Bremerton, WA;;;;;Bremerton;2024-01-26T06:24:41.484Z
+Brookstone at Edgewater Townhomes, 7513 177th Street Ct E #4-07602, Puyallup, WA 98375;3135;ForRent;4;2.5;Puyallup;2024-02-17T14:07:54.384Z
+13101 SE 240th St, Kent, WA;;;;;Kent;2024-03-04T11:31:11.977Z
+13914 NE Salmon Creek Ave, Vancouver, WA;;;;;Vancouver;2024-04-09T04:29:49.079Z
+9202 176th St E, Puyallup, WA;;;;;Puyallup;2023-12-16T18:14:27.568Z
+923 112th St SW, Everett, WA;;;;;Everett;2023-12-31T07:24:45.725Z
+8460 164th Ave NE, Redmond, WA;;;;;Redmond;2024-01-24T17:44:34.512Z
+317 112th Ave NE, Bellevue, WA;;;;;Bellevue;2024-04-06T11:54:22.585Z
+24000 Van Ry Blvd, Mountlake Terrace, WA;;;;;Mountlake Terrace;2023-11-01T10:16:46.594Z
+16516 SE Mill Plain Blvd, Vancouver, WA;;;;;Vancouver;2024-03-28T17:20:51.967Z
+6600 130th Ave NE, Kirkland, WA;;;;;Kirkland;2024-03-19T10:37:56.551Z
+11421 Clear Creek Rd NW, Silverdale, WA;;;;;Silverdale;2023-12-31T15:43:54.675Z
+206 NE 126th Ave, Vancouver, WA;;;;;Vancouver;2023-10-26T14:38:34.467Z
+10841 SE Kent Kangley Rd, Kent, WA;;;;;Kent;2023-10-31T12:52:39.236Z
+14700 NE 35th St, Bellevue, WA;;;;;Bellevue;2023-11-05T01:42:36.706Z
+7531 NE 18th St, Vancouver, WA;;;;;Vancouver;2023-12-23T20:48:28.430Z
+Ridgecrest, 2652 W 15th Ave #D190, Kennewick, WA 99337;1700;ForRent;2;2;Kennewick;2023-12-25T01:16:01.645Z
+1020 11th Street, 1020 11th St, Bellingham, WA 98225;1850;ForRent;1;1;Bellingham;2024-01-25T04:12:41.924Z
+1502 Fawcett Ave, Tacoma, WA;;;;;Tacoma;2024-01-19T16:06:20.881Z
+7720 Vineyards Ln NE, Bremerton, WA;;;;;Bremerton;2024-01-27T22:04:08.216Z
+702 W Hastings Rd, Spokane, WA;;;;;Spokane;2023-12-22T08:59:42.276Z
+800 1st Ave N, Seattle, WA;;;;;Seattle;2024-02-13T19:45:41.183Z
+18463 Blueberry Ln, Monroe, WA;;;;;Monroe;2024-04-04T10:50:53.846Z
+1031 75th St SE, Everett, WA;;;;;Everett;2023-12-01T09:10:14.924Z
+1610 Anthology Ave NW, Issaquah, WA;;;;;Issaquah;2024-03-31T01:10:43.835Z
+4754 Fauntleroy Way SW, Seattle, WA;;;;;Seattle;2024-02-27T12:24:38.732Z
+1850 N 34th St, Seattle, WA;;;;;Seattle;2023-12-08T06:41:38.890Z
+12724 104th Avenue Ct E, Puyallup, WA;;;;;Puyallup;2023-11-23T14:06:55.023Z
+10701 Main St, Bellevue, WA;;;;;Bellevue;2023-10-22T14:45:54.063Z
+700 Broadway E, Seattle, WA;;;;;Seattle;2024-02-27T17:32:07.012Z
+624 Yale Ave N, Seattle, WA;;;;;Seattle;2024-02-26T17:01:40.029Z
+3214 NE 62nd Ave, Vancouver, WA;;;;;Vancouver;2024-02-09T02:26:30.164Z
+Bel Air, 807 3rd Ave N, Seattle, WA 98109;5000;ForRent;1;1;Seattle;2024-03-25T13:11:21.607Z
+St. J's (Ivan 5), 7180 N Leavitt Ave #107, Portland, OR 97203;1399;ForRent;0;1;Portland;2023-12-21T10:41:58.752Z
+The Peaks, 16104 36th Ave W, Lynnwood, WA 98087;1699;ForRent;1;1;Lynnwood;2024-03-22T19:35:02.275Z
+700 Matzen St, Saint Helens, OR;;;;;Saint Helens;2023-11-17T18:45:55.698Z
+18414 104th Ave NE, Bothell, WA;;;;;Bothell;2024-03-27T12:12:00.405Z
+Sunset East Apartments, 4400 NE Sunset Blvd, Renton, WA 98059;2250;ForRent;2;1;Renton;2024-02-24T17:28:18.744Z
+Capri, 324 Central Way APT 309, Kirkland, WA 98033;2365;ForRent;1;1;Kirkland;2024-01-30T22:37:58.697Z
+7654 40th St W, Tacoma, WA;;;;;Tacoma;2023-10-22T08:10:01.362Z
+42 Thunderbird Pkwy SW, Lakewood, WA;;;;;Lakewood;2024-03-13T12:20:46.398Z
+1718 E Lincoln Rd, Spokane, WA;;;;;Spokane;2023-12-11T14:18:38.522Z
+16015 Cleveland St, Redmond, WA;;;;;Redmond;2023-10-27T03:28:54.525Z
+16518 NE 91st St, Redmond, WA;;;;;Redmond;2023-11-21T13:10:03.943Z
+308 4th Ave S, Seattle, WA;;;;;Seattle;2024-01-06T20:18:13.115Z
+3508 S 180th St, Seattle, WA;;;;;Seattle;2023-11-15T17:34:27.235Z
+8515 Litt Dr SE, Olympia, WA;;;;;Olympia;2024-01-25T16:58:11.790Z
+3806 78th Avenue Ct W, Tacoma, WA;;;;;Tacoma;2023-12-08T03:37:05.185Z
+7415 Hawks Prairie Rd NE, Olympia, WA;;;;;Olympia;2023-12-10T15:44:32.229Z
+5010 84th St SW, Mukilteo, WA;;;;;Mukilteo;2024-02-25T15:36:43.099Z
+9860 Bushlac Ln NW, Silverdale, WA;;;;;Silverdale;2023-12-25T12:37:24.905Z
+11115 NE 2nd St, Bellevue, WA;;;;;Bellevue;2023-10-30T17:10:18.775Z
+107 N Cook St, Portland, OR;;;;;Portland;2024-01-04T14:01:41.486Z
+487 Mansfield Ct SW, Pt Orchard, WA;;;;;Pt Orchard;2024-02-19T13:41:12.141Z
+Manchester Apartments, 14402 2nd Ave E #C207, Tacoma, WA 98445;1550;ForRent;1;1;Tacoma;2023-11-03T13:30:37.416Z
+2524 62nd Ave E, Tacoma, WA;;;;;Tacoma;2024-01-14T23:42:43.419Z
+10402 Walmart Blvd SE, Yelm, WA;;;;;Yelm;2024-02-15T01:36:19.519Z
+11401 3rd Ave SE, Everett, WA;;;;;Everett;2023-11-13T04:45:27.561Z
+5670 Kitsap Way, Bremerton, WA;;;;;Bremerton;2024-02-24T08:50:33.348Z
+Aspire 160, 149 SW 160th St, Seattle, WA 98166;1725;ForRent;1;1;Seattle;2024-03-20T11:37:27.129Z
+2202 E Olive St, Seattle, WA;;;;;Seattle;2024-04-06T09:01:44.235Z
+12655 120th Ave NE, Kirkland, WA;;;;;Kirkland;2023-12-22T04:08:44.110Z
+3016 1st Ave, Seattle, WA;;;;;Seattle;2023-11-26T09:14:32.014Z
+Legacy Trails, 540 S Royle Rd, Ridgefield, WA 98642;1790;ForRent;2;2;Ridgefield;2024-03-26T17:10:24.291Z
+1900 NE 113th Ct, Vancouver, WA;;;;;Vancouver;2023-12-23T19:09:31.456Z
+Trailside, 3806 12th Ave SE #-004, Lacey, WA 98503;1550;ForRent;1;1;Lacey;2023-12-01T10:58:13.449Z
+1222 E Madison St, Seattle, WA;;;;;Seattle;2023-11-25T03:09:53.770Z
+102 N G St, Tacoma, WA;;;;;Tacoma;2024-02-28T20:09:30.591Z
+Silverdale Shores, 8756 Shore Pl NW APT 2, Silverdale, WA 98383;2215;ForRent;2;1;Silverdale;2024-03-28T10:23:20.472Z
+1130 N 115th St, Seattle, WA;;;;;Seattle;2024-03-26T03:24:19.442Z
+15300 SE 155th Pl, Renton, WA;;;;;Renton;2023-12-30T11:08:15.826Z
+1801 W Mallon Ave, Spokane, WA;;;;;Spokane;2024-03-24T12:29:51.273Z
+3046 17th Ave W, Seattle, WA;;;;;Seattle;2024-03-07T10:18:29.102Z
+11202 NE 20th St, Vancouver, WA;;;;;Vancouver;2024-04-01T08:01:03.353Z
+Beaumont Village, 4429 NE Fremont St APT 407, Portland, OR 97213;1367;ForRent;0;1;Portland;2023-10-11T19:39:12.080Z
+18417 E Appleway Ave, Greenacres, WA;;;;;Greenacres;2024-03-14T13:05:30.513Z
+1209 Westlake Ave N, Seattle, WA;;;;;Seattle;2024-01-12T01:56:19.404Z
+7339 43rd Ave S, Seattle, WA;;;;;Seattle;2023-10-28T21:07:44.002Z
+8829 Roosevelt Way NE, Seattle, WA;;;;;Seattle;2023-12-28T15:28:10.140Z
+Greenfire Campus, 2041 NW 57th St APT 103, Seattle, WA 98107;2150;ForRent;0;1;Seattle;2023-12-18T20:50:48.725Z
+1300 W Marine View Dr, Everett, WA;;;;;Everett;2023-11-17T04:11:59.954Z
+955 NE Maple St, Pullman, WA;;;;;Pullman;2024-01-13T09:58:44.852Z
+501 E 18th Ave, Ellensburg, WA;;;;;Ellensburg;2024-02-28T06:32:13.931Z
+4111 NE Martin Luther King Jr Blvd, Portland, OR;;;;;Portland;2024-03-01T11:50:21.537Z
+1918 70th Ave W, Tacoma, WA;;;;;Tacoma;2024-02-22T11:44:55.864Z
+21900 E Country Vista Dr, Liberty Lake, WA;;;;;Liberty Lake;2024-04-04T21:46:51.147Z
+1125 NE Valley Rd, Pullman, WA;;;;;Pullman;2023-12-08T16:17:26.682Z
+6100 Lakewood Dr W, University Place, WA;;;;;University Place;2024-01-04T18:57:24.138Z
+4801 176th St E, Tacoma, WA;;;;;Tacoma;2024-02-03T17:17:20.222Z
+1523 E Madison St, Seattle, WA;;;;;Seattle;2024-04-08T15:03:45.074Z
+35929 21st Pl S, Federal Way, WA;;;;;Federal Way;2024-02-19T06:00:15.791Z
+2701 Rigney Rd, Steilacoom, WA;;;;;Steilacoom;2024-01-24T15:44:19.422Z
+620 Comstock St, Seattle, WA;;;;;Seattle;2024-03-30T18:02:19.841Z
+4497 Starlit Ln, Richland, WA;;;;;Richland;2024-02-14T01:03:57.954Z
+Soundview Apartments, 4815 California Ave SW #319, Seattle, WA 98116;1495;ForRent;0;1;Seattle;2024-04-02T04:39:50.572Z
+849 E Magnesium Rd, Spokane, WA;;;;;Spokane;2024-02-03T19:25:07.794Z
+4702 S 302nd Ln, Auburn, WA;;;;;Auburn;2024-01-30T08:15:28.706Z
+420 Queen Anne Ave N, Seattle, WA;;;;;Seattle;2024-03-11T05:22:49.549Z
+Baker Apartments, 1902 N Walnut St, Ellensburg, WA 98926;1185;ForRent;2;1;Ellensburg;2023-10-14T13:12:40.820Z
+609 W Nickerson St, Seattle, WA;;;;;Seattle;2024-02-16T14:59:13.950Z
+19128 112th Ave NE, Bothell, WA;;;;;Bothell;2024-02-07T11:24:41.383Z
+18111 25th Ave NE, Marysville, WA;;;;;Marysville;2024-01-29T04:34:58.200Z
+4125 S Settler Dr, Ridgefield, WA;;;;;Ridgefield;2024-02-04T12:42:38.961Z
+15881 NE 85th St, Redmond, WA;;;;;Redmond;2023-11-22T04:58:23.431Z
+Highlands at South Hill, 502 43rd Ave SE, Puyallup, WA 98374;2675;ForRent;2;2;Puyallup;2024-02-21T08:22:14.985Z
+10765 14th Ave SW, Seattle, WA;;;;;Seattle;2024-01-19T22:11:48.320Z
+1508 N B St, Ellensburg, WA;;;;;Ellensburg;2024-01-30T02:16:16.789Z
+2515 S Jefferson Ave, Tacoma, WA;;;;;Tacoma;2023-10-13T17:30:20.188Z
+Glacier Apartments, 1015 E 18th Ave #317, Ellensburg, WA 98926;1160;ForRent;2;1;Ellensburg;2023-11-18T14:59:42.074Z
+190 S 334th St, Federal Way, WA;;;;;Federal Way;2024-01-30T19:25:27.953Z
+11301 NE 7th St, Vancouver, WA;;;;;Vancouver;2023-12-30T22:07:53.726Z
+455 S 156th St, Seattle, WA;;;;;Seattle;2023-12-07T21:12:05.231Z
+1535 N Alberta St, Portland, OR;;;;;Portland;2024-03-12T15:10:47.963Z
+600 W Olympic Pl, Seattle, WA;;;;;Seattle;2023-10-22T01:37:10.124Z
+4124 148th St SE, Bothell, WA;;;;;Bothell;2023-10-15T09:15:16.710Z
+3601 NE 162nd Ave, Portland, OR;;;;;Portland;2024-02-18T04:16:11.780Z
+4226-4268 Cameo Ln, Bellingham, WA;;;;;Bellingham;2023-11-27T08:33:42.104Z
+5055 N Interstate Ave, Portland, OR;;;;;Portland;2023-12-18T14:10:34.169Z
+8011 NE Fourth Plain Blvd, Vancouver, WA;;;;;Vancouver;2023-11-14T17:12:33.625Z
+1525 N Humboldt St, Portland, OR;;;;;Portland;2024-02-26T10:13:12.046Z
+18124 36th Ave W, Lynnwood, WA;;;;;Lynnwood;2024-03-25T23:24:32.813Z
+4828 123rd St SW, Lakewood, WA;;;;;Lakewood;2024-03-21T23:29:02.332Z
+2895 Pauling Ave, Richland, WA;;;;;Richland;2024-04-02T10:33:58.960Z
+8022 83rd Ave SW, Lakewood, WA;;;;;Lakewood;2024-02-27T23:51:27.959Z
+7405 168th Ave NE, Redmond, WA;;;;;Redmond;2023-10-24T02:06:26.775Z
+2315 W 2nd Ave, Spokane, WA;;;;;Spokane;2023-12-25T23:07:13.759Z
+16325 Cleveland St, Redmond, WA;;;;;Redmond;2024-01-10T09:54:22.099Z
+400 S 50th St, Renton, WA;;;;;Renton;2024-01-03T11:10:32.476Z
+424 Belmont Ave E, Seattle, WA;;;;;Seattle;2024-01-08T02:26:56.665Z
+Erlands Point, 3000 Austin Dr #D202, Bremerton, WA 98312;1580;ForRent;1;1;Bremerton;2024-02-09T17:27:41.763Z
+13101 Shetland Ln, Spokane, WA;;;;;Spokane;2024-01-01T02:42:22.599Z
+14913 SE Mill Plain Blvd, Vancouver, WA;;;;;Vancouver;2023-12-01T18:46:54.992Z
+Brookside Gardens, 804 100th Street Ct E #1103, Tacoma, WA 98445;1495;ForRent;2;1;Tacoma;2023-12-31T13:27:11.047Z
+538 Lakeside Ave S, Seattle, WA;;;;;Seattle;2024-02-23T18:14:07.997Z
+1400 Fones Rd SE, Olympia, WA;;;;;Olympia;2024-03-08T16:33:13.316Z
+2020 Lake Heights Dr, Everett, WA;;;;;Everett;2024-02-18T18:36:57.497Z
+Jem Wey, 915 Queen Anne Ave N #407, Seattle, WA 98109;1495;ForRent;1;1;Seattle;2024-04-01T10:41:13.599Z
+10710 17th Ave S, Tacoma, WA;;;;;Tacoma;2024-02-23T05:46:29.157Z
+4712 N Williams Ave, Portland, OR;;;;;Portland;2024-03-15T06:57:38.051Z
+10305 Chapel Hill Blvd, Pasco, WA;;;;;Pasco;2024-02-24T23:03:41.368Z
+10701 109th St SW, Lakewood, WA;;;;;Lakewood;2024-01-10T15:45:50.847Z
+16550 NE 79th St, Redmond, WA;;;;;Redmond;2023-12-13T05:04:10.684Z
+11300 3rd Ave NE, Seattle, WA;;;;;Seattle;2024-03-25T22:04:39.104Z
+407 Valley Ave NE, Puyallup, WA;;;;;Puyallup;2024-01-01T15:32:19.037Z
+5780-5790 N Greeley Ave, Portland, OR;;;;;Portland;2024-03-30T18:17:13.563Z
